@@ -22,9 +22,9 @@ class CampusCoordinatorPage extends React.Component {
                     <h2 className="vr_section_subhead">
                         Work with us to get your campus voting.
                     </h2>
-                    <div className="started_box vr_red_background">
+                    <a className="started_box vr_red_background link_no_decoration" href="mailto:campuscoordinators@voteremote.us">
                         Sign Up
-                    </div>
+                    </a>
                     <div className="teaser_circle" onClick={this.scrollToFirstSectionHeader}>
                         <svg xmlns="http://www.w3.org/2000/svg">
                             <path fill="none" stroke-width="4" stroke-linecap="round" stroke="#FFF"
@@ -69,9 +69,9 @@ class CampusCoordinatorPage extends React.Component {
                                 <p>Using Vote Remote's resources, answer your classmates' questions about all things voting, from registration to postage.</p>
                             </div>
                         </div>
-                        <div className="started_box vr_red_background">
+                        <a className="started_box vr_red_background link_no_decoration" href="mailto:campuscoordinators@voteremote.us">
                             Sign Up
-                        </div>
+                        </a>
                     </div>
                 </div>
                 <div className="section_full_image">
@@ -119,9 +119,9 @@ class CampusCoordinatorPage extends React.Component {
                     <p>We're working to change the way students vote, one school at a time.</p>
                     <p>To do that, we need people like you: creative, driven, and passionate about political engagement. People who want to share their own voice, and help others be heard. People who want to power through difficult and complicated systems, not give up.</p>
                     <p>Did we mention the T-shirt?</p>
-                    <div className="started_box vr_red_background">
+                    <a className="started_box vr_red_background link_no_decoration" href="mailto:campuscoordinators@voteremote.us">
                         Sign Up
-                    </div>
+                    </a>
                 </div>
             </div>
         )
