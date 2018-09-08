@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Vote Remote",
+  "name": "Vote Remote",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,7 +9,7 @@
     }
   ],
   "start_url": "./index.html",
-  "homepage": "https://indivisiblesomerville.github.io/voteremote.us",
+  "homepage": "https://www.voteremote.us/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"

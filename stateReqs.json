@@ -31,6 +31,10 @@
                         "instructionText": "Alabama residents can request an absentee ballot by mail with this form.",
                         "instructionLinkText": "Request Ballot",
                         "instructionLink": "https://sos.alabama.gov/sites/default/files/voter-pdfs/Absentee%20Ballot%20Application%20-%20AV-R1%20-%202018-02-01.pdf"
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "In order to vote absentee in Alabama, you need to return with your ballot a photocopy of an approved photo ID."
                     }
                 ]
             },
@@ -803,6 +807,10 @@
                         "instructionText": "Kansas residents can request an absentee ballot by mail with this form.",
                         "instructionLinkText": "Request Ballot",
                         "instructionLink": "http://www.kssos.org/forms/elections/AV1.pdf"
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "In order to vote absentee in Kansas, you need to return with your absentee ballot application a photocopy of an approved photo ID."
                     }
                 ]
             },
@@ -895,10 +903,6 @@
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
-                        "instructionType": "reminder",
-                        "instructionText": "If you are voting absentee because you are a student, when you submit your first absentee ballot request you must include a copy of your student ID or your fee bill. This is in addition to any other ID requirement that might apply."
-                    },
-                    {
                         "instructionType": "link",
                         "instructionText": "Louisiana residents can request an absentee ballot online by clicking on “Search by Voter,” entering their information, and clicking on “Request Absentee Ballot.” You’ll be asked why you need an absentee ballot, so make sure to click the “higher education” box.",
                         "instructionLinkText": "Request Online",
@@ -909,6 +913,10 @@
                         "instructionText": "Louisiana residents can request an absentee ballot by mail with this form.",
                         "instructionLinkText": "Request by Mail",
                         "instructionLink": "https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/GeneralApplicationForAbsenteeByMailBallot.pdf"
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "If you are voting absentee because you are a student, when you submit your first absentee ballot request you must include a copy of your student ID or your fee bill. This is in addition to any other ID requirement that might apply."
                     }
                 ]
             },
@@ -1593,6 +1601,10 @@
                         "instructionText": "North Dakota residents with valid North Dakota ID can request an absentee ballot by mail with this form.",
                         "instructionLinkText": "Request Ballot",
                         "instructionLink": "https://vip.sos.nd.gov/absentee/Default.aspx"
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "In order to vote absentee in North Dakota, you need to return with your absentee ballot application a photocopy of an approved North Dakota ID, or get a signature from a North Dakota resident who has an approved ID."
                     }
                 ]
             },
@@ -2263,6 +2275,10 @@
                         "instructionText": "Wisconsin residents can request an absentee ballot by mail with this form.",
                         "instructionLinkText": "Request Ballot",
                         "instructionLink": "https://elections.wi.gov/sites/default/files/gab_forms/4/el_121_application_for_absentee_ballot_2018_06_f_21413.pdf"
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "The first time you vote absentee in Wisconsin, you need to return with your absentee ballot application a photocopy of an approved Wisconsin or federal photo ID. You are also subject to this requirement each time you change your registration name or address."
                     }
                 ]
             },

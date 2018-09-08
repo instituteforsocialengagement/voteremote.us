@@ -1,2 +1,42 @@
 {
+    "AL": [
+        {
+            "warning-text": "In order to vote absentee in Alabama, you need to return with your ballot a photocopy of an approved photo ID. A list of valid IDs can be found at https://sos.alabama.gov/alabama-votes/photo-voter-id/valid-ids"
+        }
+    ],
+    "MI": [
+        {
+            "warning-text": "Residents who register to vote via mail must vote in person in the first election they participate in."
+        }
+    ],
+    "MN": [
+        {
+            "warning-text": "To complete their absentee ballot, residents must have the signature of a notary or witness who is registered to vote in Minnesota."
+        }
+    ],
+    "TN": [
+        {
+            "warning-text": "Residents who register to vote via mail must vote in person in the first election they participate in."
+        }
+    ],
+    "WY": [
+        {
+            "warning-text": "Wyoming residents living out of state can only register to vote by mail. You’ll need a notary public to witness your registration; check your local library or UPS Store to set up an appointment."
+        }
+    ],
+    "KS": [
+        {
+            "warning-text": "In order to vote absentee in Kansas, you need to return with your absentee ballot application a photocopy of an approved photo ID. A list of valid IDs can be found at http://www.gotvoterid.com/valid-photo-ids.html#idlist"
+        }
+    ],
+    "ND": [
+        {
+            "warning-text": "In order to vote absentee in North Dakota, you need to return with your absentee ballot application a photocopy of an approved North Dakota ID, or get a signature from a North Dakota resident who has an approved ID. A list of valid IDs can be found at https://vip.sos.nd.gov/idrequirements.aspx"
+        }
+    ],
+    "WI": [
+        {
+            "warning-text": "The first time you vote absentee in Wisconsin, you need to return with your absentee ballot application a photocopy of an approved Wisconsin or federal photo ID. A list of valid IDs can be found at https://www.bringitwisconsin.com/do-i-have-right-photo-id. You are also subject to this requirement each time you change your registration name or address."
+        }
+    ]
 }
