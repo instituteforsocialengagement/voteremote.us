@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="140" viewBox="0 0 209 140">
+    <g fill="none" fill-rule="nonzero">
+        <g stroke="#0C1631" stroke-width="6" transform="translate(131 36)">
+            <ellipse cx="39.424" cy="24.742" rx="25.011" ry="24.742"/>
+            <path d="M28.516 49.968C14.424 49.968 3 61.392 3 75.484V99a2 2 0 0 0 2 2h68a2 2 0 0 0 2-2V75.484c0-14.092-11.424-25.516-25.516-25.516H28.516z"/>
+        </g>
+        <path stroke="#979797" stroke-linecap="square" d="M81.421 14.5h47.158"/>
+        <g stroke="#0C1631" stroke-width="6" transform="translate(0 36)">
+            <ellipse cx="40.272" cy="24.742" rx="25.011" ry="24.742"/>
+            <path d="M28.516 49.968C14.424 49.968 3 61.392 3 75.484V99a2 2 0 0 0 2 2h68a2 2 0 0 0 2-2V75.484c0-14.092-11.424-25.516-25.516-25.516H28.516z"/>
+        </g>
+        <path fill="#FFF" stroke="#0C1631" stroke-width="6" d="M47.444 68.75l34.82-14.317.891.18c1.688.338 3.415.51 5.167.51h26.616c14.394 0 26.062-11.668 26.062-26.061C141 14.668 129.332 3 114.938 3H88.322C73.928 3 62.26 14.668 62.26 29.062c0 3.417.656 6.738 1.917 9.83l.57 1.4L47.444 68.75z"/>
+        <path stroke="#0C1631" stroke-linecap="round" stroke-width="6" d="M81 23.5h42M81 34h30"/>
+    </g>
+</svg>

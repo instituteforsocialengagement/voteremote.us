@@ -1,0 +1,410 @@
+[
+    {
+      "state-short": "AL",
+      "state-long": "Alabama",
+      "votes-cast": "2,123,372",
+      "victory-margin-absolute": "588,708",
+      "victory-margin-percent": "27.7%",
+      "victory-margin-rank": 41
+    },
+    {
+      "state-short": "AK",
+      "state-long": "Alaska",
+      "votes-cast": "318,608",
+      "victory-margin-absolute": "46,933",
+      "victory-margin-percent": "14.7%",
+      "victory-margin-rank": 23
+    },
+    {
+      "state-short": "AZ",
+      "state-long": "Arizona",
+      "votes-cast": "2,604,657",
+      "victory-margin-absolute": "91,234",
+      "victory-margin-percent": "3.5%",
+      "victory-margin-rank": 9
+    },
+    {
+      "state-short": "AR",
+      "state-long": "Arkansas",
+      "votes-cast": "1,130,635",
+      "victory-margin-absolute": "304,378",
+      "victory-margin-percent": "26.9%",
+      "victory-margin-rank": 39
+    },
+    {
+      "state-short": "CA",
+      "state-long": "California",
+      "votes-cast": "14,237,893",
+      "victory-margin-absolute": "4,269,978",
+      "victory-margin-percent": "30.0%",
+      "victory-margin-rank": 44
+    },
+    {
+      "state-short": "CO",
+      "state-long": "Colorado",
+      "votes-cast": "2,780,247",
+      "victory-margin-absolute": "136,386",
+      "victory-margin-percent": "4.9%",
+      "victory-margin-rank": 11
+    },
+    {
+      "state-short": "CT",
+      "state-long": "Connecticut",
+      "votes-cast": "1,644,920",
+      "victory-margin-absolute": "224,357",
+      "victory-margin-percent": "13.6%",
+      "victory-margin-rank": 20
+    },
+    {
+      "state-short": "DC",
+      "state-long": "D. C.",
+      "votes-cast": "311,268",
+      "victory-margin-absolute": "270,107",
+      "victory-margin-percent": "86.8%",
+      "victory-margin-rank": 51
+    },
+    {
+      "state-short": "DE",
+      "state-long": "Delaware",
+      "votes-cast": "443,814",
+      "victory-margin-absolute": "50,476",
+      "victory-margin-percent": "11.4%",
+      "victory-margin-rank": 19
+    },
+    {
+      "state-short": "FL",
+      "state-long": "Florida",
+      "votes-cast": "9,502,747",
+      "victory-margin-absolute": "112,911",
+      "victory-margin-percent": "1.2%",
+      "victory-margin-rank": 5
+    },
+    {
+      "state-short": "GA",
+      "state-long": "Georgia",
+      "votes-cast": "4,141,447",
+      "victory-margin-absolute": "211,141",
+      "victory-margin-percent": "5.1%",
+      "victory-margin-rank": 12
+    },
+    {
+      "state-short": "HI",
+      "state-long": "Hawaii",
+      "votes-cast": "428,937",
+      "victory-margin-absolute": "138,044",
+      "victory-margin-percent": "32.2%",
+      "victory-margin-rank": 46
+    },
+    {
+      "state-short": "ID",
+      "state-long": "Idaho",
+      "votes-cast": "690,433",
+      "victory-margin-absolute": "219,290",
+      "victory-margin-percent": "31.8%",
+      "victory-margin-rank": 45
+    },
+    {
+      "state-short": "IL",
+      "state-long": "Illinois",
+      "votes-cast": "5,594,825",
+      "victory-margin-absolute": "944,714",
+      "victory-margin-percent": "16.9%",
+      "victory-margin-rank": 26
+    },
+    {
+      "state-short": "IN",
+      "state-long": "Indiana",
+      "votes-cast": "2,757,965",
+      "victory-margin-absolute": "524,160",
+      "victory-margin-percent": "19.0%",
+      "victory-margin-rank": 30
+    },
+    {
+      "state-short": "IA",
+      "state-long": "Iowa",
+      "votes-cast": "1,566,031",
+      "victory-margin-absolute": "147,314",
+      "victory-margin-percent": "9.4%",
+      "victory-margin-rank": 17
+    },
+    {
+      "state-short": "KS",
+      "state-long": "Kansas",
+      "votes-cast": "1,194,755",
+      "victory-margin-absolute": "244,013",
+      "victory-margin-percent": "20.4%",
+      "victory-margin-rank": 33
+    },
+    {
+      "state-short": "KY",
+      "state-long": "Kentucky",
+      "votes-cast": "1,924,150",
+      "victory-margin-absolute": "574,117",
+      "victory-margin-percent": "29.8%",
+      "victory-margin-rank": 43
+    },
+    {
+      "state-short": "LA",
+      "state-long": "Louisiana",
+      "votes-cast": "2,029,032",
+      "victory-margin-absolute": "398,484",
+      "victory-margin-percent": "19.6%",
+      "victory-margin-rank": 31
+    },
+    {
+      "state-short": "ME",
+      "state-long": "Maine",
+      "votes-cast": "747,927",
+      "victory-margin-absolute": "22,142",
+      "victory-margin-percent": "3.0%",
+      "victory-margin-rank": 8
+    },
+    {
+      "state-short": "MD",
+      "state-long": "Maryland",
+      "votes-cast": "2,781,446",
+      "victory-margin-absolute": "734,759",
+      "victory-margin-percent": "26.4%",
+      "victory-margin-rank": 38
+    },
+    {
+      "state-short": "MA",
+      "state-long": "Massachusetts",
+      "votes-cast": "3,325,046",
+      "victory-margin-absolute": "904,303",
+      "victory-margin-percent": "27.2%",
+      "victory-margin-rank": 40
+    },
+    {
+      "state-short": "MI",
+      "state-long": "Michigan",
+      "votes-cast": "4,824,542",
+      "victory-margin-absolute": "10,704",
+      "victory-margin-percent": "0.2%",
+      "victory-margin-rank": 1
+    },
+    {
+      "state-short": "MN",
+      "state-long": "Minnesota",
+      "votes-cast": "2,945,233",
+      "victory-margin-absolute": "44,593",
+      "victory-margin-percent": "1.5%",
+      "victory-margin-rank": 6
+    },
+    {
+      "state-short": "MS",
+      "state-long": "Mississippi",
+      "votes-cast": "1,211,088",
+      "victory-margin-absolute": "215,583",
+      "victory-margin-percent": "17.8%",
+      "victory-margin-rank": 27
+    },
+    {
+      "state-short": "MO",
+      "state-long": "Missouri",
+      "votes-cast": "2,828,266",
+      "victory-margin-absolute": "523,443",
+      "victory-margin-percent": "18.5%",
+      "victory-margin-rank": 29
+    },
+    {
+      "state-short": "MT",
+      "state-long": "Montana",
+      "votes-cast": "501,822",
+      "victory-margin-absolute": "101,531",
+      "victory-margin-percent": "20.2%",
+      "victory-margin-rank": 32
+    },
+    {
+      "state-short": "NE",
+      "state-long": "Nebraska",
+      "votes-cast": "844,227",
+      "victory-margin-absolute": "211,467",
+      "victory-margin-percent": "25.1%",
+      "victory-margin-rank": 35
+    },
+    {
+      "state-short": "NV",
+      "state-long": "Nevada",
+      "votes-cast": "1,125,385",
+      "victory-margin-absolute": "27,202",
+      "victory-margin-percent": "2.4%",
+      "victory-margin-rank": 7
+    },
+    {
+      "state-short": "NH",
+      "state-long": "New Hampshire",
+      "votes-cast": "744,296",
+      "victory-margin-absolute": "2,736",
+      "victory-margin-percent": "0.4%",
+      "victory-margin-rank": 2
+    },
+    {
+      "state-short": "NJ",
+      "state-long": "New Jersey",
+      "votes-cast": "3,906,723",
+      "victory-margin-absolute": "546,345",
+      "victory-margin-percent": "14.0%",
+      "victory-margin-rank": 21
+    },
+    {
+      "state-short": "NM",
+      "state-long": "New Mexico",
+      "votes-cast": "798,319",
+      "victory-margin-absolute": "65,567",
+      "victory-margin-percent": "8.2%",
+      "victory-margin-rank": 15
+    },
+    {
+      "state-short": "NY",
+      "state-long": "New York",
+      "votes-cast": "7,721,795",
+      "victory-margin-absolute": "1,736,585",
+      "victory-margin-percent": "22.5%",
+      "victory-margin-rank": 34
+    },
+    {
+      "state-short": "NC",
+      "state-long": "North Carolina",
+      "votes-cast": "4,741,564",
+      "victory-margin-absolute": "173,315",
+      "victory-margin-percent": "3.7%",
+      "victory-margin-rank": 10
+    },
+    {
+      "state-short": "ND",
+      "state-long": "North Dakota",
+      "votes-cast": "344,360",
+      "victory-margin-absolute": "123,036",
+      "victory-margin-percent": "35.7%",
+      "victory-margin-rank": 47
+    },
+    {
+      "state-short": "OH",
+      "state-long": "Ohio",
+      "votes-cast": "5,536,547",
+      "victory-margin-absolute": "446,837",
+      "victory-margin-percent": "8.1%",
+      "victory-margin-rank": 14
+    },
+    {
+      "state-short": "OK",
+      "state-long": "Oklahoma",
+      "votes-cast": "1,452,992",
+      "victory-margin-absolute": "528,761",
+      "victory-margin-percent": "36.4%",
+      "victory-margin-rank": 48
+    },
+    {
+      "state-short": "OR",
+      "state-long": "Oregon",
+      "votes-cast": "2,001,336",
+      "victory-margin-absolute": "219,703",
+      "victory-margin-percent": "11.0%",
+      "victory-margin-rank": 18
+    },
+    {
+      "state-short": "PA",
+      "state-long": "Pennsylvania",
+      "votes-cast": "6,166,729",
+      "victory-margin-absolute": "44,292",
+      "victory-margin-percent": "0.7%",
+      "victory-margin-rank": 3
+    },
+    {
+      "state-short": "RI",
+      "state-long": "Rhode Island",
+      "votes-cast": "464,144",
+      "victory-margin-absolute": "71,982",
+      "victory-margin-percent": "15.5%",
+      "victory-margin-rank": 24
+    },
+    {
+      "state-short": "SC",
+      "state-long": "South Carolina",
+      "votes-cast": "2,103,027",
+      "victory-margin-absolute": "300,016",
+      "victory-margin-percent": "14.3%",
+      "victory-margin-rank": 22
+    },
+    {
+      "state-short": "SD",
+      "state-long": "South Dakota",
+      "votes-cast": "370,093",
+      "victory-margin-absolute": "110,263",
+      "victory-margin-percent": "29.8%",
+      "victory-margin-rank": 42
+    },
+    {
+      "state-short": "TN",
+      "state-long": "Tennessee",
+      "votes-cast": "2,508,027",
+      "victory-margin-absolute": "652,230",
+      "victory-margin-percent": "26.0%",
+      "victory-margin-rank": 36
+    },
+    {
+      "state-short": "TX",
+      "state-long": "Texas",
+      "votes-cast": "8,993,166",
+      "victory-margin-absolute": "807,179",
+      "victory-margin-percent": "9.0%",
+      "victory-margin-rank": 16
+    },
+    {
+      "state-short": "UT",
+      "state-long": "Utah",
+      "votes-cast": "1,143,601",
+      "victory-margin-absolute": "204,555",
+      "victory-margin-percent": "17.9%",
+      "victory-margin-rank": 28
+    },
+    {
+      "state-short": "VT",
+      "state-long": "Vermont",
+      "votes-cast": "315,067",
+      "victory-margin-absolute": "83,204",
+      "victory-margin-percent": "26.4%",
+      "victory-margin-rank": 37
+    },
+    {
+      "state-short": "VA",
+      "state-long": "Virginia",
+      "votes-cast": "3,982,752",
+      "victory-margin-absolute": "212,030",
+      "victory-margin-percent": "5.3%",
+      "victory-margin-rank": 13
+    },
+    {
+      "state-short": "WA",
+      "state-long": "Washington",
+      "votes-cast": "3,316,996",
+      "victory-margin-absolute": "520,971",
+      "victory-margin-percent": "15.7%",
+      "victory-margin-rank": 25
+    },
+    {
+      "state-short": "WV",
+      "state-long": "West Virginia",
+      "votes-cast": "721,233",
+      "victory-margin-absolute": "300,577",
+      "victory-margin-percent": "41.7%",
+      "victory-margin-rank": 49
+    },
+    {
+      "state-short": "WI",
+      "state-long": "Wisconsin",
+      "votes-cast": "2,976,150",
+      "victory-margin-absolute": "22,748",
+      "victory-margin-percent": "0.8%",
+      "victory-margin-rank": 4
+    },
+    {
+      "state-short": "WY",
+      "state-long": "Wyoming",
+      "votes-cast": "255,849",
+      "victory-margin-absolute": "118,446",
+      "victory-margin-percent": "46.3%",
+      "victory-margin-rank": 50
+    }
+   ]

@@ -1,0 +1,284 @@
+html {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+.vr_body {
+    background-color: #0D1730;
+    color: #FFF;
+}
+.root {
+    margin: 0 auto;
+    width: 100%;
+}
+.headline {
+    align-items: center;
+    display: flex;
+    height: 125px;
+    justify-content: space-between;
+}
+.headline h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    padding-left: 50px;
+}
+.headline .social_box {
+    display: flex;
+    padding-right: 50px;
+}
+.social {
+    margin: 10px;
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.menu_box {
+    display: none;
+    padding: 5px 0;
+    text-align: center;
+}
+.links_box {
+    align-items: center;
+    display: flex;
+    height: 75px;
+    justify-content: space-around;
+}
+.links_box .vr_section_subhead {
+    font-size: 24px;
+}
+
+.banner_box {
+    height: calc(100vh - 200px);
+    min-height: 600px;
+    position: relative;
+    text-align: center;
+}
+.banner_box .vr_section_head {
+    padding-top: 96px;
+    font-size: 124px;
+}
+.banner_box .vr_section_subhead {
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+.started_box {
+    width: 337px;
+    height: 40px;
+    font-family: Lovelo-Black;
+    font-size: 24px;
+    padding-top:20px;
+    text-align: center;
+}
+
+.banner_box .started_box {
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.teaser_circle {
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+
+    width: 100px;
+    height: 50px;
+    background-color: #C4CCD7;
+    margin-left: -50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.what_box {
+    min-height: 424px;
+    color: #0D1730;
+    text-align: center;
+}
+.what_box .vr_section_head {
+    padding-top: 60px;
+    width:100%;
+}
+.what_box .vr_section_subhead {
+    padding-top: 10px;
+}
+.what_icon_container {
+    margin-top: 40px;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    justify-content: center;
+}
+.what_icon_box {
+    width: 294px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.img  {
+    margin-left:auto;
+    margin-right:auto;
+}
+.img_txt {
+    margin-top: 13px;
+}
+.count_box {
+    display: flex;
+    min-height: 551px;
+}
+.count_box .count_box_text {
+    padding: 80px 5%;
+    width: 40%;
+}
+.count_box .vr_body {
+    margin: 0;
+    padding-top: 24px;
+}
+.count_box .started_box {
+    margin-top: 24px;
+}
+.count_box_image {
+    background-color: #D8D8D8;
+    width: 50%;
+}
+.footer_box {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer_box a {
+    color: #ffffff;
+    padding: 0 20px;
+}
+.cr {
+    margin-top: 24px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Breakpoint to keep banner text on 2 lines */
+@media only screen and (max-width: 1080px) {
+    .headline {
+        height: 75px;
+    }
+    .headline h1 {
+        font-size: 3rem;
+        font-weight: bold;
+        padding-left: 50px;
+    }
+    .social {
+        margin: 10px;
+        color: #FFFFFF;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+    .headline .social_box {
+        display: flex;
+        padding-right: 50px;
+    }
+    .menu_box {
+        display: none;
+    }
+    .links_box {
+        align-items: center;
+        display: flex;
+        height: 50px;
+        justify-content: space-around;
+    }
+    .links_box .vr_section_subhead {
+        font-size: 18px;
+    }
+
+    .banner_box {
+        height: calc(100vh - 125px);
+        min-height: 500px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .banner_box .vr_section_head {
+        padding-top: 96px;
+        font-size: 80px;
+    }
+    .banner_box .started_box {
+        margin-top: 30px;
+        margin-bottom: 70px;
+    }
+
+}
+
+/* Breakpoint for "What Is" and Count Box sections */
+@media only screen and (max-width: 900px) {
+    .what_icon_container {
+        margin: 40px auto;
+        flex-direction: column;
+    }
+    .count_box {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+/* Breakpoint for mobile */
+@media only screen and (max-width: 600px) {
+    .headline {
+        flex-direction: column;
+        justify-content: center;
+        height: 45px;
+    }
+    .headline h1 {
+        font-size: 1rem;
+        padding-left: 0;
+    }
+    .headline .social_box {
+        display: none;
+    }
+    .menu_box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 45px;
+    }
+    .links_box {
+        display: none;
+    }
+
+    .banner_box {
+        height: calc(100vh - 146px); /* 90px for navs; 56px for address bar (Chrome workaround)*/
+        min-height: auto;
+        position: relative;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .banner_box .vr_section_head {
+        font-size: 48px;
+        padding-top: 20px;
+    }
+    .banner_box .vr_section_subhead {
+        font-size: 24px;
+        padding-top: 0px;
+    }
+    .started_box {
+        width: 90%;
+        height: 40px;
+        font-family: Lovelo-Black;
+        font-size: 24px;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .banner_box .started_box {
+        margin-top: 30px;
+        margin-bottom: 70px;
+    }
+
+    .footer_box {
+        flex-direction: column;
+    }
+}

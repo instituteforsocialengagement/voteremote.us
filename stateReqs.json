@@ -1,0 +1,2324 @@
+{
+    "AL": {
+        "stateFullName": "Alabama",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Alabama’s official registration deadline is October 22, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Alabama residents can register online to vote if they have an Alabama driver’s license or Alabama non-driver ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without an Alabama ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 1, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Alabama residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://sos.alabama.gov/sites/default/files/voter-pdfs/Absentee%20Ballot%20Application%20-%20AV-R1%20-%202018-02-01.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by noon on Tuesday, November 6."
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Alabama requires that when you return your absentee ballot, you include a photocopy of an approved photo ID."
+                    }
+                ]
+            }
+        ]
+    },
+    "AK": {
+        "stateFullName": "Alaska",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Alaska’s official registration deadline is October 6, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Alaska residents can register online to vote if they have an Alaska driver’s license or Alaska state ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://voterregistration.alaska.gov"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without an Alaska ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 27, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Alaska residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://www.elections.alaska.gov/doc/forms/C06%20ADL_R.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. AKST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "AZ": {
+        "stateFullName": "Arizona",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Arizona’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Arizona residents can register online to vote if they have an Arizona driver’s license or Arizona state ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://servicearizona.com/webapp/evoter/selectLanguage"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without an Arizona ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 26, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Arizona residents can request an absentee ballot by contacting their County Recorder’s office.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://azsos.gov/elections/voting-election/contact-information-county-election-officials"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7 p.m. MST Tuesday, November 6. "
+                    }
+                ]
+            }
+        ]
+    },
+    "AR": {
+        "stateFullName": "Arkansas",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Arkansas’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Arkansas residents living out of state can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "https://www.sos.arkansas.gov/uploads/elections/ArkansasVoterRegistrationApplication.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Arkansas residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://www.sos.arkansas.gov/elections/Documents/county clerks for website.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7:30 p.m. MST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "CA": {
+        "stateFullName": "California",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While California’s official registration deadline is October 22, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "California residents can register online to vote if they have an California driver’s license or California state ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://covr.sos.ca.gov/?"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a California ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "California does not have an official ballot request deadline, so requesting early will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "California residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://elections.cdn.sos.ca.gov/vote-by-mail/pdf/vote-by-mail-application.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 17, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "CO": {
+        "stateFullName": "Colorado",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Colorado’s official deadline for by-mail registration is October 30, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Colorado residents can register online to vote if they have a Colorado driver’s license or Colorado state ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Colorado ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "All Colorado registered voters receive mailed ballots; out-of-state voters should use the following link to redirect their ballot to their current address.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.colorado.gov/pacific/atom/11406"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7 p.m. MST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "CT": {
+        "stateFullName": "Connecticut",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Connecticut’s official registration deadline is October 30, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Connecticut residents can register online to vote if they have an Connecticut driver’s license or Connecticut state ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://voterregistration.ct.gov/OLVR/welcome.do"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Connecticut ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While Connecticut’s official absentee ballot request deadline is November 6, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Connecticut residents can request an absentee ballot online using the forms on this page.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. EST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "DC": {
+        "stateFullName": "Washington, D.C.",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Washington, D.C.’s official registration deadline is October 16, 2018, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Washington, D.C. residents can register online to vote if they have a Washington, D.C. license or identification card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.vote4dc.com/ApplyInstructions/Register"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents who do not have a Washington, D.C. ID must register by mail, or by printing and emailing the registration form.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "https://www.vote4dc.com/ApplyInstructions/Register"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Washington, D.C. residents can request an absentee ballot online using this form.",
+                        "instructionLinkText": "Request Online",
+                        "instructionLink": "https://vote4dc.com/ApplyInstructions/Absentee"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request by Mail",
+                        "instructionLink": "https://www.dcboe.org/getattachment/Data-Resources/Forms-and-Resources/AbsenteeBallotRequestForm.pdf.aspx?lang=en-US"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by November 6, 2018."
+                    }
+                ]
+            }
+        ]
+    },
+    "DE": {
+        "stateFullName": "Delaware",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Delaware’s official registration deadline is October 13, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Delaware residents can register online to vote if they have a Delaware driver’s license or Delaware state ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://ivote.de.gov/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Delaware ID may register to vote by phone.",
+                        "instructionLinkText": "Register by Phone",
+                        "instructionLink": "http://elections.delaware.gov/locations.shtml"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Delaware residents can request an absentee ballot by contacting their County Recorder’s office.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://ivote.de.gov/default.aspx"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. EST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "FL": {
+        "stateFullName": "Florida",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Florida’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Florida residents can register online to vote if they have a Florida driver’s license or Florida state ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://registertovoteflorida.gov/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Florida ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Florida residents can request an absentee ballot by contacting their County Election Supervisor’s office.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://dos.elections.myflorida.com/supervisors/"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by noon on Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "GA": {
+        "stateFullName": "Georgia",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Georgia’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Georgia residents can register online to vote if they have a Georgia driver’s license or Georgia state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Georgia ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Georgia residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://sos.ga.gov/admin/files/absentee_ballot_app.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "HI": {
+        "stateFullName": "Hawaii",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Hawaii’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Hawaii residents can register online to vote.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://olvr.hawaii.gov/Default.aspx"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents can also use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Hawaii residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://elections.hawaii.gov/wp-content/uploads/2015/03/Absentee-Application_English.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "ID": {
+        "stateFullName": "Idaho",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Idaho’s official registration deadline is October 12, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Idaho residents can register online to vote if they have an Idaho driver’s license or identification card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://apps.idahovotes.gov/OnlineVoterRegistration"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without an Idaho ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 26, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Idaho residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://idahovotes.gov/media/2018_Absentee%20Request%20Form.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 5 p.m. Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "IL": {
+        "stateFullName": "Illinois",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Illinois’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Illinois residents can register online to vote if they have an Illinois driver’s license or ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://ova.elections.il.gov/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without an Illinois ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 1, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Illinois residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.elections.il.gov/VotingInformation/VotingByMailAgreement.aspx"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "IN": {
+        "stateFullName": "Indiana",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Indiana’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Indiana residents can register online to vote if they have an Indiana driver’s license or Indiana state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "http://www.indianavoters.com/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without an Indiana ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 29, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Indiana residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://forms.in.gov/Download.aspx?id=8691"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by noon on Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "IA": {
+        "stateFullName": "Iowa",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Iowa’s official registration deadline is October 27, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Iowa residents can register online to vote if they have an Iowa driver’s license or state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fVoterRegistration"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without an Iowa ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 27, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Iowa residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be postmarked by Monday, November 5 and received by noon on Monday, November 12."
+                    }
+                ]
+            }
+        ]
+    },
+    "KS": {
+        "stateFullName": "Kansas",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Kansas’ official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Kansas residents can register online to vote if they have a Kansas driver’s license or non-driver ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Kansas ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Kansas residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://www.kssos.org/forms/elections/AV1.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by November 9."
+                    }
+                ]
+            }
+        ]
+    },
+    "KY": {
+        "stateFullName": "Kentucky",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Kentucky’s official registration deadline is October 8, 2018, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Kentucky residents can register online to vote.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://vrsws.sos.ky.gov/ovrweb/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Kentucky residents can also use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Kentucky residents can request an absentee ballot by contacting their County Clerk’s office.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://elect.ky.gov/About-Us/Pages/County-Clerks.aspx"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by November 6. "
+                    }
+                ]
+            }
+        ]
+    },
+    "LA": {
+        "stateFullName": "Louisiana",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Louisiana's official registration deadline is October 7 (October 17 for online registration), registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Louisiana residents can register online to vote if they have a Louisiana driver’s license or special ID card with the four digit Audit code on the front.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://voterportal.sos.la.gov/VoterRegistration"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Louisiana ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "If you are voting absentee because you are a student, when you submit your first absentee ballot request you must include a copy of your student ID or your fee bill. This is in addition to any other ID requirement that might apply."
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Louisiana residents can request an absentee ballot online by clicking on “Search by Voter,” entering their information, and clicking on “Request Absentee Ballot.” You’ll be asked why you need an absentee ballot, so make sure to click the “higher education” box.",
+                        "instructionLinkText": "Request Online",
+                        "instructionLink": "https://voterportal.sos.la.gov/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Louisiana residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request by Mail",
+                        "instructionLink": "https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/GeneralApplicationForAbsenteeByMailBallot.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 4:30 p.m. Monday, November 5th."
+                    }
+                ]
+            }
+        ]
+    },
+    "ME": {
+        "stateFullName": "Maine",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Maine’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Maine residents can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 1, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Maine residents can request an absentee ballot online with this form.",
+                        "instructionLinkText": "Request Online",
+                        "instructionLink": "https://www1.maine.gov/cgi-bin/online/AbsenteeBallot/online-form.pl"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Maine residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request by Mail",
+                        "instructionLink": "https://www1.maine.gov/online/AbsenteeBallot/ABS-2018-11-06.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018 ",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "MD": {
+        "stateFullName": "Maryland",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Maryland’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Maryland residents can register online to vote if they have a Maryland driver’s license or state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Maryland ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Maryland residents can request an absentee ballot online with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. EST Tuesday, November 6, 2018."
+                    }
+                ]
+            }
+        ]
+    },
+    "MA": {
+        "stateFullName": "Massachusetts",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Massachusetts’ official registration deadline is October 17, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Massachusetts residents can register online to vote if they have a Massachusetts driver’s license or state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?&Action=Register"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Massachusetts ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Massachusetts residents can request an absentee ballot by mail, fax, or email with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://www.sec.state.ma.us/ele/elepdf/absentee/English-Absentee-Ballot-Application.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by the close of polls on Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "MI": {
+        "stateFullName": "Michigan",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Michigan’s official registration deadline is October 5, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Michigan residents can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Residents who register to vote via mail must vote in person in the first election they participate in."
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 3, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Michigan residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.michigan.gov/documents/AbsentVoterBallot_105377_7.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "MN": {
+        "stateFullName": "Minnesota",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Minnesota’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Minnesota residents can register online to vote.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents can also use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While Minnesota doesn’t have an official deadline for requesting an absentee ballot, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Minnesota residents can request an absentee ballot online.",
+                        "instructionLinkText": "Request Online",
+                        "instructionLink": "https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Minnesota residents can also request an absentee ballot by email, mail, or fax with this form.",
+                        "instructionLinkText": "Request by Mail",
+                        "instructionLink": "https://www.sos.state.mn.us/media/2444/english-regular-absentee-ballot-application.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "To complete their ballot, residents must have the signature of a notary or witness who is registered to vote in Minnesota."
+                    }
+                ]
+            }
+        ]
+    },
+    "MS": {
+        "stateFullName": "Mississippi",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Mississippi’s official registration deadline is October 7, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Mississippi residents can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While Mississippi doesn’t have an official deadline for requesting an absentee ballot, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Mississippi residents can request an absentee ballot by contacting their County Clerk’s office.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://www.sos.ms.gov/Elections-Voting/Documents/uocava_web.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 5 p.m. Monday, November 5."
+                    }
+                ]
+            }
+        ]
+    },
+    "MO": {
+        "stateFullName": "Missouri",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Missouri’s official registration deadline is October 10, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Missouri residents can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Missouri residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/AbsenteeRequestPostSI2V.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by the close of polls on Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "MT": {
+        "stateFullName": "Montana",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Montana’s official registration deadline is October 7, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Montana residents living out of state can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Montana residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://sosmt.gov/Portals/142/Elections/Forms/Application-for-Absentee-Ballot.pdf?dt=1523470576630"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "NE": {
+        "stateFullName": "Nebraska",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Nebraska’s official registration deadline is October 20, 2018, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Nebraska residents can register online to vote if they have a Nebraska driver’s license or state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.nebraska.gov/apps-sos-voter-registration/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Nebraska ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 27, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Nebraska residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://www.sos.ne.gov/elec/pdf/earlyvote_app.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by the close of polls on Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "NV": {
+        "stateFullName": "Nevada",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Nevada’s official registration deadline is October 8 (October 18 for online registration), registering early will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Nevada residents can register online to vote if they have a Nevada Driver’s license or state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.nvsos.gov/sosvoterservices/Registration/Step0.aspx"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without Nevada ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Nevada residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.nvsos.gov/sos/home/showdocument?id=2394"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7 p.m. Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "NJ": {
+        "stateFullName": "New Jersey",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While New Jersey’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "New Jersey residents can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "New Jersey residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.state.nj.us/state/elections/voting-information-vote-by-mail.html"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by the close of polls on Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "NM": {
+        "stateFullName": "New Mexico",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While New Mexico’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "New Mexico residents living out of state can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "New Mexico residents can request an absentee ballot by mail with the form on this page.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://www.sos.state.nm.us/Voter_Information/absentee-voting-by-mail.aspx"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7 p.m. Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "NY": {
+        "stateFullName": "New York",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While New York’s official registration deadline is October 12, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "New York residents can register online to vote if they have a New York driver’s license or non-driver state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://voterreg.dmv.ny.gov/MotorVoter/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without New York ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be postmarked by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "New York residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-English.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By November 5, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be postmarked by November 5 and received by November 12."
+                    }
+                ]
+            }
+        ]
+    },
+    "NC": {
+        "stateFullName": "North Carolina",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While North Carolina’s official registration deadline is October 12, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "North Carolina residents living out of state can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "North Carolina residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.ncsbe.gov/Portals/0/Forms/NCAbsenteeBallotRequestForm.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be postmarked by November 6 and received by November 9."
+                    }
+                ]
+            }
+        ]
+    },
+    "ND": {
+        "stateFullName": "North Dakota",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "N/A",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "In North Dakota, residents do not register to vote. Residents only need to show a valid state ID to vote in person or absentee."
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While North Dakota doesn’t have an official absentee ballot request deadline, requesting early will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "North Dakota residents with valid North Dakota ID can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://vip.sos.nd.gov/absentee/Default.aspx"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "OH": {
+        "stateFullName": "Ohio",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Ohio’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Ohio residents can register online to vote if they have an Ohio driver’s license or Ohio ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://olvr.sos.state.oh.us/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without an Ohio ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 3, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Ohio residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.sos.state.oh.us/globalassets/elections/forms/11-a_english.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 27, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by noon on Saturday, November 3."
+                    }
+                ]
+            }
+        ]
+    },
+    "OK": {
+        "stateFullName": "Oklahoma",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Oklahoma’s official registration deadline is October 13, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Oklahoma residents can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Oklahoma residents can request an absentee ballot online.",
+                        "instructionLinkText": "Request Online",
+                        "instructionLink": "https://services.okelections.us/AbsenteeApplication/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Oklahoma residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request by Mail",
+                        "instructionLink": "https://www.ok.gov/elections/documents/Oklahoma%20Absentee%20Ballot%20Application%20-%20fillable.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7 p.m. CST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "OR": {
+        "stateFullName": "Oregon",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Oregon’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Oregon residents can register online to vote if they have an Oregon driver’s license or Oregon state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://secure.sos.state.or.us/orestar/vr/register.do"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without Oregon ID must register by mail. Fill out the online registration form, leaving the Oregon ID section blank. Then, print, sign, and return.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "https://secure.sos.state.or.us/orestar/vr/register.do"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "All Oregon elections are held by mail-in ballot. If you haven’t received your absentee ballot three weeks out from the election, contact your local election official.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Oregon residents away from home should update their mailing address with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://sos.oregon.gov/elections/Documents/SEL111.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. PST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "PA": {
+        "stateFullName": "Pennsylvania",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Pennsylvania’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Pennsylvania residents can register online to vote.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents can also use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Pennsylvania residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.votespa.com/Voting-in-PA/Documents/Absentee_Ballot_Application.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 26, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 5 p.m. Friday, November 2."
+                    }
+                ]
+            }
+        ]
+    },
+    "RI": {
+        "stateFullName": "Rhode Island",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Rhode Island’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Rhode Island residents can register online to vote if they have a Rhode Island driver’s license or state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://vote.sos.ri.gov/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without Rhode Island ID must register by mail. Fill out the online registration form, leaving the Rhode Island ID section blank. Then, print, sign, and return.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "https://vote.sos.ri.gov/"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 16, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Rhode Island residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://vote.sos.ri.gov/assets/pdfs/mail_ballot_general.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. EST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "SC": {
+        "stateFullName": "South Carolina",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While South Carolina’s official registration deadline is October 7, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "South Carolina residents can register online to vote if they have a South Carolina driver’s license or state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://info.scvotes.sc.gov/eng/ovr/start.aspx"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without South Carolina ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "South Carolina residents can request an absentee ballot online.",
+                        "instructionLinkText": "Request Online",
+                        "instructionLink": "https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeRequest"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "South Carolina residents can also request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request by Mail",
+                        "instructionLink": "https://www.scvotes.org/how-register-absentee-voting"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7 p.m. EST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "SD": {
+        "stateFullName": "South Dakota",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While registration applications must be received by October 22, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "South Dakota residents living out of state can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "South Dakota residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://sdsos.gov/elections-voting/assets/AbsenteeBallotApplication.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "TN": {
+        "stateFullName": "Tennessee",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Tennessee's official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Tennessee residents can register online to vote if they have a Tennessee driver’s license or Tennessee Department of Safety and Homeland Security ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://ovr.govote.tn.gov/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without Tennessee state ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    },
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "If you register by mail, you must vote in person the first time you vote after registering."
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Tennessee residents can request an absentee ballot by mail, fax, or email with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://sos-tn-gov-files.s3.amazonaws.com/5%20Request%20for%20Absentee%20Ballot.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "TX": {
+        "stateFullName": "Texas",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Texas’ official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Texas residents can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 26, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Texas residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://webservices.sos.state.tx.us/forms/5-15f.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be postmarked by Tuesday, November 6 and received by 5 p.m. Wednesday, November 7."
+                    }
+                ]
+            }
+        ]
+    },
+    "UT": {
+        "stateFullName": "Utah",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Utah’s official mail registration deadline is October 9 (October 22 for online registration), registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Utah residents can register online to vote if they have an Utah driver’s license or Utah state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://secure.utah.gov/voterreg/index.html"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without Utah ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Utah residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://elections.utah.gov/Media/Default/Documents/Elections%20Resources/Absentee%20Ballot%20Application.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 11:59 p.m. on Monday, November 5."
+                    }
+                ]
+            }
+        ]
+    },
+    "VT": {
+        "stateFullName": "Vermont",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Vermont residents can register to vote even on Election Day, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Vermont residents can register online to vote if they have a U.S. passport, Vermont state ID, current bank statement, or utility bill.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.olvr.sec.state.vt.us/"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents can also use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Vermont residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.sec.state.vt.us/media/53483/VTAbsenteeRequestGeneric.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "WA": {
+        "stateFullName": "Washington state",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Washington’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Washington residents can register online to vote if they have a Washington driver’s license or Washington non-driver ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://weiapplets.sos.wa.gov/MyVoteOLVR/MyVoteOLVR"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "https://www.sos.wa.gov/elections/register-mail.aspx"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "All Washington elections are held by mail-in ballot.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Check your registration in MyVote to make sure that your ballot will get to you on time.",
+                        "instructionLinkText": "Check Address",
+                        "instructionLink": "https://weiapplets.sos.wa.gov/MyVote/#/login"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6. "
+                    }
+                ]
+            }
+        ]
+    },
+    "WV": {
+        "stateFullName": "West Virginia",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While West Virginia’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "West Virginia residents can register online to vote if they have a West Virginia driver’s license or West Virginia state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://ovr.sos.wv.gov/Register/Landing#Qualifications"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without West Virginia ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "West Virginia residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://sos.wv.gov/elections/forms/Documents/Forms%20-%20Voter/Absentee%20Ballot%20Application.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be postmarked by Tuesday, November 6 and received by Monday, November 12."
+                    }
+                ]
+            }
+        ]
+    },
+    "WI": {
+        "stateFullName": "Wisconsin",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Wisconsin’s official registration deadline is October 17, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Wisconsin residents can register online to vote if they have a Wisconsin driver’s license or Wisconsin state ID.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "http://myvote.wi.gov"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Wisconsin ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While Wisconsin’s official absentee ballot request deadline is November 1, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Wisconsin residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://elections.wi.gov/sites/default/files/gab_forms/4/el_121_application_for_absentee_ballot_2018_06_f_21413.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "WY": {
+        "stateFullName": "Wyoming",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Wyoming’s official registration deadline is October 23, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Wyoming residents living out of state can only register to vote by mail. You’ll need a notary public to witness your registration; check your local library or UPS Store to set up an appointment.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Wyoming residents can request an absentee ballot by contacting their County Clerk.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://soswy.state.wy.us/Elections/Docs/WYCountyClerks.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7 p.m. Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    }
+}
