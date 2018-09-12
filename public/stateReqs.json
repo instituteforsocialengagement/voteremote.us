@@ -2336,5 +2336,95 @@
                 ]
             }
         ]
+    },
+    "NH": {
+        "stateFullName": "New Hampshire",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While New Hampshire’s official registration deadline is October 27, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "New Hampshire residents ordinarily must register in person at their city or town clerk’s office. If you cannot register in person, contact your city or town clerk for more information.",
+                        "instructionLinkText": "Register in Person",
+                        "instructionLink": "https://app.sos.nh.gov/Public/ClerkDetails.aspx"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While New Hampshire doesn’t have an official absentee ballot request deadline, requesting early will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "New Hampshire residents can request an absentee ballot by mail with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589973343"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 5 p.m. EST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
+    },
+    "VA": {
+        "stateFullName": "Virginia",
+        "stepsAbsentee": [
+            {
+                "stepName": "Register to Vote",
+                "stepDeadline": "By September 28, 2018",
+                "stepDeadlineMouseoverText": "While Virginia’s official registration deadline is October 15, registering earlier will ensure that your ballot gets to you on time.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Virginia residents can register to vote online if they have a Virginia driver’s license or Virginia non-driver ID card.",
+                        "instructionLinkText": "Register Online",
+                        "instructionLink": "https://www.elections.virginia.gov/citizen-portal/index.html"
+                    },
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Residents without a Virginia ID can use Vote Remote to register by mail.",
+                        "instructionLinkText": "Register by Mail",
+                        "instructionLink": "/get-started"
+                    }
+                ]
+            },
+            {
+                "stepName": "Request Your Ballot",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
+                "stepInstructions": [
+                    {
+                        "instructionType": "link",
+                        "instructionText": "Virginia residents can request an absentee ballot by mail, fax, or email with this form.",
+                        "instructionLinkText": "Request Ballot",
+                        "instructionLink": "https://www.elections.virginia.gov/Files/Forms/VoterForms/VirginiaAbsenteeBallotApplication.pdf"
+                    }
+                ]
+            },
+            {
+                "stepName": "Return Your Ballot",
+                "stepDeadline": "By October 29, 2018",
+                "stepDeadlineMouseoverText": "",
+                "stepInstructions": [
+                    {
+                        "instructionType": "reminder",
+                        "instructionText": "Completed absentee ballots must be received by 7 p.m. EST Tuesday, November 6."
+                    }
+                ]
+            }
+        ]
     }
 }
