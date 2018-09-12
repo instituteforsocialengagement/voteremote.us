@@ -34,7 +34,7 @@ class HomePage extends React.Component {
                 </div>
                 <div className="what_box vr_white_background">
                         <div className="vr_section_head vr_uppercase">
-                                What is Vote Remote?
+                            Vote Remote is a tool for...
                         </div>
                         <div className="what_icon_container">
                             <div className="what_icon_box">

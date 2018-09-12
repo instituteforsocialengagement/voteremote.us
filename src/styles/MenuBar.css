@@ -43,11 +43,11 @@
         padding: 10px 0;
     }
     .menu_overlay {
-        height: 0;
-        line-height: 2;
+        display: none;
     }
     .menu_overlay.active {
         height: auto;
+        line-height: 2;
         display: block;
     }
     .menu_overlay ul {
