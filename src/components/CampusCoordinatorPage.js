@@ -43,7 +43,7 @@ class CampusCoordinatorPage extends React.Component {
                             <p>Through events, social media, and personal conversations, Vote Remote Campus Coordinators help their classmates navigate the absentee voting process.</p>
                         </div>
                         <div className="section_info_image">
-                            <img src="/images/student-checking-smartphone.png" alt="Student looking at smartphone" />
+                            <img src="/images/two_students_shutterstock_653327275.jpg" alt="Two students in discussion" />
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@ class CampusCoordinatorPage extends React.Component {
                     </div>
                 </div>
                 <div className="section_full_image">
-                    <img src="/images/students-sitting-around-table.png" alt="Students sitting around a large table in a classroom" />
+                    <img src="/images/students_around_table_shutterstock_223920001.jpg" alt="Students sitting around a large table in a classroom" />
                 </div>
                 <div className="section_header_blue">
                     <h2 className="vr_section_head vr_uppercase">What You'll Get</h2>
@@ -112,7 +112,7 @@ class CampusCoordinatorPage extends React.Component {
                     </div>
                 </div>
                 <div className="section_full_image">
-                    <img src="/images/students-outside.png" alt="A large group of students walking outside" />
+                    <img src="/images/students_and_wall_shutterstock_520091017.jpg" alt="A group of students standing against a white wall" />
                 </div>
                 <div className="section_info_blue">
                     <h2 className="vr_section_head vr_uppercase">Make a Difference</h2>

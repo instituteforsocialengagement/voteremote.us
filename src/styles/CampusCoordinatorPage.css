@@ -5,7 +5,7 @@
     text-align: center;
 }
 .banner_box.campus_coordinator {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/crowded-street_shutterstock_1053948191.jpg');
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/crowded-street_shutterstock_1053948191_large.jpg');
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -74,6 +74,9 @@
 }
 .section_info_two_wide_container .section_info_image {
     width: 50%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
 }
 .section_info_white .content_container {
     padding: 50px 0;
@@ -98,6 +101,14 @@
     margin: 20px;
 }
 .section_full_image {
+    width: 100%;
+    max-height: 800px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section_full_image img {
     width: 100%;
 }
 .section_info_what_you_get_container {
@@ -131,25 +142,6 @@
     text-align: center;
     padding: 50px 20%;
 }
-
-
-img #img_swag {
-    height: 224px;
-    width: 215px;
-}
-img #img_community {
-    height: 167px;
-    width: 258px;
-}
-img #img_experience {
-    height: 207px;
-    width: 151px;
-}
-.what_you_get_item_image.experience {
-    padding: 0 32px;
-}
-
-
 
 /* Breakpoint for medium-size desktop/laptop screens */
 @media only screen and (max-width: 1400px) {
@@ -186,6 +178,9 @@ img #img_experience {
         flex-direction: column;
         justify-content: space-around;
     }
+    .banner_box.campus_coordinator {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/crowded-street_shutterstock_1053948191_small.jpg');
+    }
     .banner_box .vr_section_head {
         font-size: 48px;
         padding-top: 20px;
@@ -203,5 +198,46 @@ img #img_experience {
     .banner_box .started_box {
         margin-top: 30px;
         margin-bottom: 70px;
+    }
+
+    .section_info_two_wide_container .section_info_text {
+        padding: 50px 0;
+        width: 100%;
+    }
+    .section_info_two_wide_container .section_info_image {
+        display: none;
+    }
+    .section_info_icon_box_container {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .icon_box {
+        padding-bottom: 20px;
+    }
+
+    .section_info_what_you_get_container {
+        padding: 10px;
+    }
+    .what_you_get_item_container {
+        padding: 0;
+    }
+    .what_you_get_item_container.image_left, .what_you_get_item_container.image_right {
+        flex-direction: column;
+        padding: 0;
+    }
+    .what_you_get_item_container.image_left .what_you_get_item_text {
+        padding-left: 0px;
+    }
+    .what_you_get_item_container.image_right .what_you_get_item_text {
+        padding-right: 0px;
+    }
+    .what_you_get_item_text {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .section_info_blue {
+        padding: 20px;
     }
 }
