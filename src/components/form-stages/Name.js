@@ -62,6 +62,7 @@ const Name = (props) => (
             </div>
             <div className="form_field">
                 <label htmlFor="school">Your School (type at least 3 letters of the name to search)</label>
+                <p className="disclaimer_contact">Not a student? Register at <a href="http://www.vote.org">Vote.org</a>!</p>
                 <SearchBox 
                     name="school"
                     onSchoolSelect={props.handleChange}
