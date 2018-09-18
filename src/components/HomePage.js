@@ -43,7 +43,7 @@ class HomePage extends React.Component {
                                     Making Your Vote Count
                                 </div>
                                 <div className="img_txt">
-                                    Use our district tool to find out where your vote is the most useful.
+                                    Use our state comparison tool to find out where your vote is the most useful.
                                 </div>
                             </div>
                             <div className="what_icon_box">
@@ -52,7 +52,7 @@ class HomePage extends React.Component {
                                     Getting Your Ballot In
                                 </div>
                                 <div className="img_txt">
-                                    We'll help you register or re-register, and remind you about absentee voter deadlines via text.
+                                    We’ll help you register or re-register. Check your state’s deadlines anytime.
                                 </div>
                             </div>
                             <div className="what_icon_box">
@@ -76,7 +76,6 @@ class HomePage extends React.Component {
                             <ul>
                                 <li>See where you vote will have the greatest impact</li>
                                 <li>Register to vote and request your ballot</li>
-                                <li>Remember any important deadlines via text (because our inboxes are also flooded)</li>
                                 <li>Meet other students working to make their voices heard</li>
                             </ul>
                         </p>
