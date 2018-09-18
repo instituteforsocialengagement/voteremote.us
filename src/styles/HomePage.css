@@ -1,9 +1,3 @@
-.banner_box {
-    height: calc(100vh - 200px);
-    min-height: 600px;
-    position: relative;
-    text-align: center;
-}
 .banner_box.homepage {
     background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/students-marching-on-street_shutterstock_1046250628.jpg');
     background-position: center;
@@ -11,42 +5,7 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.banner_box .vr_section_head {
-    padding-top: 96px;
-    font-size: 124px;
-}
-.banner_box .vr_section_subhead {
-    padding-top: 10px;
-    font-size: 24px;
-}
 
-.started_box {
-    display: block;
-    width: 337px;
-    font-family: Lovelo-Black;
-    font-size: 24px;
-    padding: 20px 0;
-    text-align: center;
-}
-
-.banner_box .started_box {
-    margin-top: 80px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.teaser_circle {
-    display: block;
-    position: absolute;
-    bottom: 0px;
-    left: 50%;
-
-    width: 100px;
-    height: 50px;
-    background-color: #C4CCD7;
-    margin-left: -50px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-}
 .what_box {
     min-height: 424px;
     color: #0D1730;
@@ -99,26 +58,6 @@
     background-repeat: no-repeat;
 }
 
-/* Breakpoint for medium-size desktop/laptop screens */
-@media only screen and (max-width: 1400px) {
-    .banner_box {
-        height: calc(100vh - 125px);
-        min-height: 500px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-    }
-    .banner_box .vr_section_head {
-        padding-top: 50px;
-        font-size: 100px;
-    }
-    .banner_box .started_box {
-        margin-top: 30px;
-        margin-bottom: 70px;
-    }
-
-}
-
 /* Breakpoint for "What Is" and Count Box sections */
 @media only screen and (max-width: 900px) {
     .what_icon_container {
@@ -134,37 +73,6 @@
 
 /* Breakpoint for mobile, portrait mode */
 @media only screen and (max-width: 600px) {
-    .banner_box {
-        height: calc(100vh - 150px); /* 94px for navs; 56px for address bar (Chrome workaround)*/
-        min-height: 160px;
-        position: relative;
-        text-align: center;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-    }
-    .banner_box .vr_section_head {
-        font-size: 36px;
-        padding-top: 0;
-    }
-    .banner_box .vr_section_subhead {
-        font-size: 24px;
-        padding-top: 0px;
-    }
-    .started_box {
-        width: 90%;
-        font-family: Lovelo-Black;
-        font-size: 24px;
-        text-align: center;
-    }
-    .banner_box .started_box {
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-    .teaser_circle {
-        display: none;
-    }
-
     .count_box .count_box_text {
         margin: 50px 0;
         width: 90%;

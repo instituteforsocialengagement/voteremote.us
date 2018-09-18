@@ -2,6 +2,7 @@ import React from 'react';
 
 import MenuBar from './MenuBar';
 import '../styles/CampusCoordinatorPage.css';
+import '../styles/banner-box.css';
 
 class CampusCoordinatorPage extends React.Component {
     scrollToFirstSectionHeader() {
@@ -69,7 +70,7 @@ class CampusCoordinatorPage extends React.Component {
                                 <p>Using Vote Remote's resources, answer your classmates' questions about all things voting, from registration to postage.</p>
                             </div>
                         </div>
-                        <a className="started_box vr_red_background link_no_decoration" href="mailto:campuscoordinators@voteremote.us">
+                        <a className="started_box vr_red_background link_no_decoration" href="https://marjie4.typeform.com/to/BlwrhS">
                             Sign Up
                         </a>
                     </div>
@@ -88,7 +89,7 @@ class CampusCoordinatorPage extends React.Component {
                             </div>
                             <div className="what_you_get_item_text">
                                 <h3 className="vr_section_subhead vr_uppercase">Swag</h3>
-                                <p>Just like your mom, we'll send you a care package. You'll get a T-shirt, stickers, and chalk, as well as written materials to share with your campus.</p>
+                                <p>Just like your mom, we'll send you a care package. You'll get stickers and chalk, as well as written materials to share with your campus.</p>
                             </div>
                         </div>
                         <div className="what_you_get_item_container image_right">
@@ -118,8 +119,7 @@ class CampusCoordinatorPage extends React.Component {
                     <h2 className="vr_section_head vr_uppercase">Make a Difference</h2>
                     <p>We're working to change the way students vote, one school at a time.</p>
                     <p>To do that, we need people like you: creative, driven, and passionate about political engagement. People who want to share their own voice, and help others be heard. People who want to power through difficult and complicated systems, not give up.</p>
-                    <p>Did we mention the T-shirt?</p>
-                    <a className="started_box vr_red_background link_no_decoration" href="mailto:campuscoordinators@voteremote.us">
+                    <a className="started_box vr_red_background link_no_decoration" href="https://marjie4.typeform.com/to/BlwrhS">
                         Sign Up
                     </a>
                 </div>

@@ -6,28 +6,11 @@
 .links_box {
     align-items: center;
     display: flex;
-    height: 75px;
+    height: 40px;
     justify-content: space-around;
 }
 .links_box .vr_section_subhead {
-    font-size: 24px;
-}
-
-/* Breakpoint for medium-size desktop/laptop screens */
-@media only screen and (max-width: 1400px) {
-    .menu_box {
-        display: none;
-    }
-    .links_box {
-        align-items: center;
-        display: flex;
-        height: 50px;
-        justify-content: space-around;
-    }
-    .links_box .vr_section_subhead {
-        font-size: 18px;
-    }
-
+    font-size: 18px;
 }
 
 /* Breakpoint for mobile */
