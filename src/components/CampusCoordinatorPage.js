@@ -69,7 +69,7 @@ class CampusCoordinatorPage extends React.Component {
                                 <p>Using Vote Remote's resources, answer your classmates' questions about all things voting, from registration to postage.</p>
                             </div>
                         </div>
-                        <a className="started_box vr_red_background link_no_decoration" href="mailto:campuscoordinators@voteremote.us">
+                        <a className="started_box vr_red_background link_no_decoration" href="https://marjie4.typeform.com/to/BlwrhS">
                             Sign Up
                         </a>
                     </div>
@@ -119,7 +119,7 @@ class CampusCoordinatorPage extends React.Component {
                     <p>We're working to change the way students vote, one school at a time.</p>
                     <p>To do that, we need people like you: creative, driven, and passionate about political engagement. People who want to share their own voice, and help others be heard. People who want to power through difficult and complicated systems, not give up.</p>
                     <p>Did we mention the T-shirt?</p>
-                    <a className="started_box vr_red_background link_no_decoration" href="mailto:campuscoordinators@voteremote.us">
+                    <a className="started_box vr_red_background link_no_decoration" href="https://marjie4.typeform.com/to/BlwrhS">
                         Sign Up
                     </a>
                 </div>

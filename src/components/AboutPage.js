@@ -32,18 +32,18 @@ const AboutPage = () => (
                     </div>
                     <div className="about_bottom_grid_item">
                         <h3 className="vr_section_subhead vr_uppercase">For Businesses and Donors:</h3>
-                        <p>Vote Remote is a 501(c)(3) nonprofit. We accept tax-deductible donations and rely heavily on sponsors who can provide merchandise and food for events, as well as discount opportunities for our Campus Coordinators.</p>
-                        <a className="about_link_no_background" href="mailto:donate@voteremote.us">Donate Now</a>
+                        <p>Vote Remote is a project of the Institute for Social Engagement, a 501(c)(3) nonprofit. We accept tax-deductible donations.</p>
+                        <a className="about_link_no_background" href="https://donorbox.org/vote-remote" target="_blank">Donate Now</a>
                     </div>
                     <div className="about_bottom_grid_item">
                         <h3 className="vr_section_subhead vr_uppercase">For Faculty Members:</h3>
                         <p>Vote Remote Supporting Faculty members are educators working to share Vote Remote's mission on their campuses.</p>
-                        <a className="about_link_no_background" href="mailto:faculty@voteremote.us">Learn More</a>
+                        <a className="about_link_no_background" href="https://marjie4.typeform.com/to/bhr2vO">Sign Up</a>
                     </div>
                     <div className="about_bottom_grid_item">
                         <h3 className="vr_section_subhead vr_uppercase">For Anyone Else:</h3>
                         <p>We’re always in need of general volunteers, especially those with ties to high school and college communities. If you have a passion for fundraising or event planning, or simply want to get involved, join us at Vote Remote.</p>
-                        <a className="about_link_no_background" href="mailto:volunteer@voteremote.us">Sign Up</a>
+                        <a className="about_link_no_background" href="https://marjie4.typeform.com/to/bhr2vO">Sign Up</a>
                     </div>                                        
                 </div>
             </div>
