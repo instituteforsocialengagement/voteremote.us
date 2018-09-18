@@ -1,49 +1,9 @@
-.banner_box {
-    height: calc(100vh - 200px);
-    min-height: 600px;
-    position: relative;
-    text-align: center;
-}
 .banner_box.campus_coordinator {
     background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/crowded-street_shutterstock_1053948191_large.jpg');
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-}
-.banner_box .vr_section_head {
-    padding-top: 96px;
-    font-size: 124px;
-}
-.banner_box .vr_section_subhead {
-    padding-top: 10px;
-    font-size: 24px;
-}
-
-.started_box {
-    margin: 0 auto;
-    width: 337px;
-    font-family: Lovelo-Black;
-    font-size: 24px;
-    padding: 20px 0;
-    text-align: center;
-}
-
-.banner_box .started_box {
-    margin-top: 80px;
-}
-.teaser_circle {
-    display: block;
-    position: absolute;
-    bottom: 0px;
-    left: 50%;
-
-    width: 100px;
-    height: 50px;
-    background-color: #C4CCD7;
-    margin-left: -50px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
 }
 
 .red {
@@ -143,61 +103,10 @@
     padding: 50px 20%;
 }
 
-/* Breakpoint for medium-size desktop/laptop screens */
-@media only screen and (max-width: 1400px) {
-    .banner_box {
-        height: calc(100vh - 125px);
-        min-height: 500px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-    }
-    .banner_box .vr_section_head {
-        padding-top: 50px;
-        font-size: 100px;
-    }
-    .banner_box .started_box {
-        margin-top: 30px;
-        margin-bottom: 70px;
-    }
-
-}
-
-/* Breakpoint for "What Is" and Count Box sections */
-@media only screen and (max-width: 900px) {
-}
-
 /* Breakpoint for mobile */
 @media only screen and (max-width: 600px) {
-    .banner_box {
-        height: calc(100vh - 146px); /* 90px for navs; 56px for address bar (Chrome workaround)*/
-        min-height: auto;
-        position: relative;
-        text-align: center;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-    }
     .banner_box.campus_coordinator {
         background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/images/crowded-street_shutterstock_1053948191_small.jpg');
-    }
-    .banner_box .vr_section_head {
-        font-size: 48px;
-        padding-top: 20px;
-    }
-    .banner_box .vr_section_subhead {
-        font-size: 24px;
-        padding-top: 0px;
-    }
-    .started_box {
-        width: 90%;
-        font-family: Lovelo-Black;
-        font-size: 24px;
-        text-align: center;
-    }
-    .banner_box .started_box {
-        margin-top: 30px;
-        margin-bottom: 70px;
     }
 
     .section_info_two_wide_container .section_info_text {

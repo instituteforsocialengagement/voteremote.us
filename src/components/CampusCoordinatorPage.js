@@ -2,6 +2,7 @@ import React from 'react';
 
 import MenuBar from './MenuBar';
 import '../styles/CampusCoordinatorPage.css';
+import '../styles/banner-box.css';
 
 class CampusCoordinatorPage extends React.Component {
     scrollToFirstSectionHeader() {

@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import MenuBar from './MenuBar';
 import '../styles/HomePage.css';
+import '../styles/banner-box.css';
 
 class HomePage extends React.Component {
     scrollToWhat() {
@@ -16,12 +17,12 @@ class HomePage extends React.Component {
             <div className="homepage_container">
                 <MenuBar />
                 <div className="banner_box homepage vr_uppercase">
-                    <div className="vr_section_head">
+                    <h1 className="vr_section_head">
                         52% of College Students Don't Vote
-                    </div>
-                    <div className="vr_section_subhead">
+                    </h1>
+                    <h2 className="vr_section_subhead">
                         We're Ready to Change That
-                    </div>
+                    </h2>
                     <Link className="started_box vr_red_background link_no_decoration" to="/get-started">
                         Get Started
                     </Link>
