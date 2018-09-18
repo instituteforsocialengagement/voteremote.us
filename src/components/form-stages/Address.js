@@ -21,10 +21,11 @@ const Address = (props) => (
         <form noValidate onSubmit={props.handleSubmit} name="Address">
 
         <h2>Your address at home</h2>
-        <label class="checkbox_not_applicable" for="bypassHomeAddress">
+        <label className="checkbox_not_applicable" htmlFor="bypassHomeAddress">
             <input 
                 type="checkbox"
                 name="bypassHomeAddress" 
+                id="bypassHomeAddress"
                 checked={props.state["bypassHomeAddress"]}
                 onChange={props.handleChange}
             />
@@ -142,10 +143,11 @@ const Address = (props) => (
             </div>
         </div>
         <h2>Your address at school <span data-tip="If you live in a dorm, use the dorm's physical street address,<br />even if it's different than the mailing address your school gives you." className="form_label_explanation_link">(What if I'm in a dorm?)</span></h2>
-            <label class="checkbox_not_applicable" for="bypassSchoolAddress">
+            <label className="checkbox_not_applicable" htmlFor="bypassSchoolAddress">
             <input 
                 type="checkbox"
                 name="bypassSchoolAddress" 
+                id="bypassSchoolAddress"
                 checked={props.state["bypassSchoolAddress"]}
                 onChange={props.handleChange}
             />
