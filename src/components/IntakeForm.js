@@ -33,7 +33,8 @@ class IntakeForm extends React.Component {
         homeAddress_city: "",
         homeAddress_state: "",
         homeAddress_zipCode: "",
-        districtSelector: ""
+        districtSelector: "",
+        lastStepCompleted: ""
     }
     updateDistrictSelector = (district) => {
         this.setState( () => ({
@@ -100,10 +101,15 @@ class IntakeForm extends React.Component {
         }
     }
     handleStepChange = (nextStep) => {
-        // Save data in Firebase
-        const itemsRef = firebase.database().ref('items');
-        const oldItem = this.state;
-        itemsRef.push(oldItem).catch( (error) => console.log("Error writing to db."));
+        // Record the name of the current step, then save in Firebase
+        this.setState( {
+            lastStepCompleted: this.props.history.location.pathname
+        }, () => {
+            // Save data in Firebase
+            const itemsRef = firebase.database().ref('items');
+            const oldItem = this.state;
+            itemsRef.push(oldItem).catch( (error) => console.log("Error writing to db."));
+        });
         // Go to next step
         let path = '';
         switch (nextStep) {

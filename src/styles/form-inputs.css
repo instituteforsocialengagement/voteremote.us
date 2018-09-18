@@ -87,6 +87,18 @@ select:invalid {
     width: 30px;
 }
 
+.checkbox_not_applicable {
+    color: darkgray;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    justify-content: flex-start;
+}
+
+.checkbox_not_applicable input {
+    width: 20px;
+}
+
 .ui.icon.input {
     width: 100%;
 }

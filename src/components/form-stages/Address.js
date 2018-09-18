@@ -21,7 +21,8 @@ const Address = (props) => (
         <form noValidate onSubmit={props.handleSubmit} name="Address">
 
         <div className="form_field">
-            <label>Your address at home</label>
+            <label for="homeAddress_streetLine1">Your address at home</label>
+            <label class="checkbox_not_applicable" for="not-applicable"><input type="checkbox" name="not-applicable" value="home" />Not applicable</label>
             <input
                 type="text"
                 name="homeAddress_streetLine1"
@@ -132,7 +133,8 @@ const Address = (props) => (
         </div>
 
             <div className="form_field">
-                <label>Your address at school <span data-tip="If you live in a dorm, use the dorm's physical street address,<br />even if it's different than the mailing address your school gives you." className="form_label_explanation_link">(What if I'm in a dorm?)</span></label>
+                <label for="schoolAddress_streetLine1">Your address at school <span data-tip="If you live in a dorm, use the dorm's physical street address,<br />even if it's different than the mailing address your school gives you." className="form_label_explanation_link">(What if I'm in a dorm?)</span></label>
+                <label class="checkbox_not_applicable" for="not-applicable"><input type="checkbox" name="not-applicable" value="school" />Not applicable</label>
                 <input
                     type="text"
                     name="schoolAddress_streetLine1"
