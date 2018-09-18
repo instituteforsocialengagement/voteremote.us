@@ -87,18 +87,6 @@ select:invalid {
     width: 30px;
 }
 
-.checkbox_not_applicable {
-    color: darkgray;
-    display: flex;
-    flex-direction: row;
-    font-size: 14px;
-    justify-content: flex-start;
-}
-
-.checkbox_not_applicable input {
-    width: 20px;
-}
-
 .ui.icon.input {
     width: 100%;
 }
@@ -117,6 +105,27 @@ select:invalid {
     margin-bottom: 0;
     color: darkgray;
     font-size: 0.8em;
+}
+
+.checkbox_not_applicable {
+    color: darkgray;
+    display: flex;
+    flex-direction: row;
+    font-size: 14px;
+    justify-content: flex-start;
+    padding-top: 0px;
+}
+
+.checkbox_not_applicable input {
+    width: 20px;
+}
+
+.form_home_address_fields, .form_school_address_fields {
+    display: none;
+}
+
+.form_home_address_fields.active, .form_school_address_fields.active {
+    display: initial;
 }
 
 /* Breakpoints for Mobile */

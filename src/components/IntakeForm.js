@@ -33,6 +33,10 @@ class IntakeForm extends React.Component {
         homeAddress_city: "",
         homeAddress_state: "",
         homeAddress_zipCode: "",
+        bypassSchoolAddress: false,
+        bypassHomeAddress: false,
+        nameStepCompleted: false,
+        addressStepCompleted: false,
         districtSelector: "",
         lastStepCompleted: ""
     }
@@ -42,8 +46,28 @@ class IntakeForm extends React.Component {
         }));
     }
     handleChange = (e) => {
-        let newState = {};
-        newState[e.target.name] = e.target.value;
+        const target = e.target;
+        const newState = {};
+        // Handles any updates that need validation first
+        if (target.type === 'checkbox') {
+            if (target.checked) {
+                // If one of the bypasses is already true, don't allow the other to become checked.
+                // The user must uncheck the other one before they can check this one.
+                if (this.state.bypassSchoolAddress || this.state.bypassHomeAddress) {
+                    // Do nothing
+                }
+                else {
+                    newState[target.name] = true;
+                }
+            }
+            else {
+                newState[target.name] = false;
+            }
+        }
+        // Handles standard updates
+        else {
+            newState[target.name] = target.value;            
+        }
         this.setState(newState);
     }
     validateForm = (validator) => {
@@ -61,6 +85,7 @@ class IntakeForm extends React.Component {
         })
         return newState;
     }
+    // handleSubmit is used on Name and Address forms
     handleSubmit = (e) => {
         e.preventDefault();
         //TODO: Validate the input
@@ -79,12 +104,36 @@ class IntakeForm extends React.Component {
                 break;
         }
         const stateUpdateValidation = this.validateForm(validator);
+        // If Address step, remove errors if an address type is marked as bypass
+        if (currentStep === 'Address' && (this.state.bypassSchoolAddress || this.state.bypassHomeAddress)) {
+            for (let key in stateUpdateValidation.errorMsgs) {
+                console.log(key);
+                if (key.includes("home") && this.state.bypassHomeAddress) {
+                    console.log("Inside home");
+                    delete stateUpdateValidation.errorMsgs[key];
+                }
+                else if (key.includes("school") && this.state.bypassSchoolAddress) {
+                    console.log("Inside school");
+                    delete stateUpdateValidation.errorMsgs[key];
+                }
+            }
+            console.log(stateUpdateValidation);
+        }
         // If errors, display them; else go to next step
         if (Object.keys(stateUpdateValidation.errorMsgs).length > 0) {
+            console.log("Setting state");
             this.setState(stateUpdateValidation);
         }
         else {
+            console.log("Going to next step");
             this.setState({ errorMsgs: {} })
+            // Let the state know that this step's been completed
+            if (currentStep === 'Name') {
+                this.setState({ nameStepCompleted: true});
+            }
+            else if (currentStep === 'Address') {
+                this.setState({ addressStepCompleted: true});
+            }
             // Determine which form to go to next based on current step
             let nextStep = '';
             switch (currentStep) {
@@ -92,11 +141,25 @@ class IntakeForm extends React.Component {
                     nextStep = 'Address';
                     break;
                 case 'Address':
-                    nextStep = 'WhereToVote';
+                    if (this.state.bypassHomeAddress || this.state.bypassSchoolAddress) {
+                        // Set next step to skip "Where to Vote"
+                        nextStep = 'AreYouRegistered';
+                        // Set the district selector to the appropriate value
+                        if (this.state.bypassHomeAddress) {
+                            this.setState({districtSelector: 'school'});
+                        }
+                        else if (this.state.bypassSchoolAddress) {
+                            this.setState({districtSelector: 'home'});
+                        }
+                    }
+                    else {
+                        nextStep = 'WhereToVote';
+                    }
                     break;
                 default:
                     break;
             }
+            console.log(nextStep);
             this.handleStepChange(nextStep);
         }
     }
@@ -109,9 +172,11 @@ class IntakeForm extends React.Component {
             const itemsRef = firebase.database().ref('items');
             const oldItem = this.state;
             itemsRef.push(oldItem).catch( (error) => console.log("Error writing to db."));
+            console.log("Saving data in firebase");
         });
         // Go to next step
         let path = '';
+        console.log("Here is nextStep", nextStep);
         switch (nextStep) {
             case 'Name':
                 path = `${this.props.match.path}/name`;
@@ -148,14 +213,13 @@ class IntakeForm extends React.Component {
             default:
                 break;
         }
+        console.log(path);
         this.props.history.push(path);
     }
 
     // In the Switch component:
-    // Address component can only be reached if Name component has been completed
-    // (which I am representing by firstName being not empty)
-    // WhereToVote component can only be reached if Address component has been completed
-    // (which I am representing by homeAddress Line 1 being not empty)
+    // Address component can only be reached if Name component complete (nameStepComplete)
+    // WhereToVote component can only be reached if Address component complete (addressStepComplete)
     // Subsequent components can only be reached if WhereToVote component has been completed
     // (districtSelector is not empty)
     render() {
@@ -170,7 +234,7 @@ class IntakeForm extends React.Component {
                                 state={this.state}
                             />} />
                         <Route path={`${this.props.match.path}/address`} render={() => {
-                            if (!this.state.firstName) {
+                            if (!this.state.nameStepCompleted) {
                                 return (
                                     <Redirect
                                         to={`${this.props.match.path}/name`}
@@ -188,7 +252,7 @@ class IntakeForm extends React.Component {
                             }
                         } } />
                         <Route path={`${this.props.match.path}/where-to-vote`} render={() => {
-                            if (!this.state.homeAddress_streetLine1) {
+                            if (!this.state.addressStepCompleted) {
                                 return (
                                     <Redirect
                                         to={`${this.props.match.path}/address`}
