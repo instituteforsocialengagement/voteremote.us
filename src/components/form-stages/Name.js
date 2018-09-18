@@ -14,6 +14,19 @@ const Name = (props) => (
         <div className="form_header_box">
             <h1>Your Info</h1>
         </div>
+        <div>
+        <hr />
+        <p>Hey! Our signup process will walk you through:
+            <ul>
+                <li>Where you can register to vote</li>
+                <li>How to register to vote (you’ll be offered a choice to skip this step if you’re already registered at your chosen address)</li>
+                <li>How to request your absentee ballot</li>
+                <li>The deadline for each step</li>
+            </ul>
+        </p>
+        <p>We estimate this should take 5-10 minutes.</p>
+        <hr />
+        </div>
         <form onSubmit={props.handleSubmit} name="Name">
             <div className="form_group">
                 <div className="form_field name first_name">
