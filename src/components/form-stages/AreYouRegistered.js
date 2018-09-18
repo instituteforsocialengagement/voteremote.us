@@ -44,7 +44,11 @@ class AreYouRegistered extends React.Component {
           <h1>Your Vote</h1>
         </div>
         <div>
-          <h2 className="questionRegistered_header">Are you registered to vote at that address?</h2>
+          <p className="questionRegistered_header">Are you registered to vote at<br />{ this.props.state[this.props.state.districtSelector + "Address_streetLine1"] },{' '}
+          { this.props.state[this.props.state.districtSelector + "Address_streetLine2"] && `${ this.props.state[this.props.state.districtSelector + "Address_streetLine2"] }, ` }
+          { this.props.state[this.props.state.districtSelector + "Address_city"] },{' '}
+          { this.props.state[this.props.state.districtSelector + "Address_state"] }{' '}
+          { this.props.state[this.props.state.districtSelector + "Address_zipCode"] }?</p>
         </div>
         <form onSubmit={this.handleSubmit} className="questionRegistered">
           <div className="radioButton">
