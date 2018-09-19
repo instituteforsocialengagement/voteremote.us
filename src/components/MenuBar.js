@@ -20,6 +20,9 @@ const MenuBar = () => (
         </div>
         <div className="links_box vr_red_background vr_uppercase">
             <div className="vr_section_subhead"><Link className="link_no_decoration" to="/get-involved">Get Involved</Link></div>
+            <div className="vr_section_subhead">
+                <a className="dbox-donation-button link_no_decoration" href="https://donorbox.org/vote-remote">Donate</a>
+            </div>
             <div className="vr_section_subhead"><Link className="link_no_decoration" to="/state-requirements">State Requirements</Link></div>
             <div className="vr_section_subhead"><Link className="link_no_decoration" to="/about">About</Link></div>
         </div>
