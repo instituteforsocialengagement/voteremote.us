@@ -33,7 +33,7 @@ const AboutPage = () => (
                     <div className="about_bottom_grid_item">
                         <h3 className="vr_section_subhead vr_uppercase">For Businesses and Donors:</h3>
                         <p>Vote Remote is a project of the Institute for Social Engagement, a 501(c)(3) nonprofit. We accept tax-deductible donations.</p>
-                        <a className="about_link_no_background" href="https://donorbox.org/vote-remote" target="_blank" rel="noopener noreferrer">Donate Now</a>
+                        <a className="dbox-donation-button about_link_no_background" href="https://donorbox.org/vote-remote">Donate Now</a>
                     </div>
                     <div className="about_bottom_grid_item">
                         <h3 className="vr_section_subhead vr_uppercase">For Faculty Members:</h3>
