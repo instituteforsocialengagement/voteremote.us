@@ -1,3 +1,24 @@
+# Readme notes specific to voteremote.us:
+
+To run locally:
+npm install
+npm start
+
+To deploy to Github Pages:
+npm run deploy
+Creates an optimized production build, and then uploads the production build to the gh-pages branch of the Github repo.
+
+Do not manually push files to the gh-pages branch of the Github repo! (Or if you do, make sure you're pushing a production build only. But the React gh-pages module means you don't have to manually push files.)
+
+To commit source code to Github:
+Push the changes to the master branch, or push the changes to a separate branch and do a pull request against instituteforsocialengagement/voteremote.us master branch.
+
+This site is hosted on Github Pages on the gh-pages branch. The domain is set up with A records and CNAME records (on "www") to send traffic to the Github Pages server, and the "CNAME" file inside the gh-pages branch of the voteremote.us repo tells Github Pages that traffic from voteremote.us or www.voteremote.us should be provided with the index.html file inside the gh-pages branch.
+
+If you want to add a subdomain, you need to set up the CNAME record on the domain for that subdomain, and then you need to create a new Github repo (within the ISe organization preferably) for the other site. That repo needs a file called CNAME with the subdomain. Also go to the settings page of that repo to tell Github the domain name, and enable HTTPS (the latter option might not be available right away -- you may need to wait 24 hours or a bit longer before it becomes availble).
+
+# Create React App standard readme:
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
