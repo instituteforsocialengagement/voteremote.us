@@ -47,6 +47,13 @@ const AboutPage = () => (
                     </div>                                        
                 </div>
             </div>
+            <div className="about_top_container">
+                <div className="about_top_container_text">
+                    <h2 className="vr_section_head vr_uppercase">The Institute for Social Engagement</h2>
+                    <p>Vote Remote is a project of the Institute for Social Engagement, a 501(c)(3) organization.</p>
+                    <a className="about_link_no_background" href="mailto:contact@voteremote.us">Contact Us</a>
+                </div>
+            </div>
         </div>
     </div>
 )
