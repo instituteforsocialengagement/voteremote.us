@@ -1,11 +1,14 @@
 .footer {
   padding: 20px 0;
+  text-align: center;
+}
+.footer p a {
+  color: #ffffff;
 }
 .footer_box {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  text-align: center;
   padding: 10px 0;
 }
 .footer_box a {
