@@ -1,5 +1,5 @@
 {
-    "_comment": "Reg to vote and request ballot deadlines set at Oct 12, 2018, unless state reg deadline (several states) or request ballot deadline (RI) comes earlier. Oct 12 gives sufficient time for user to receive and return ballot. If a state reg deadline is before Oct 19 and the state's official site did not make clear whether by-mail apps use postmark as the date, the recommended submit date is 7 calendar days before. Nov 2018 voting research current as of 9/30-10/1/2018.",
+    "_comment": "Suggested reg to vote and request ballot deadlines set at Oct 12, 2018, unless state reg deadline (several states) or request ballot deadline (RI) comes earlier. Oct 12 gives sufficient time for user to receive and return ballot. If a state reg deadline is before Oct 19 and the state's official site did not make clear whether by-mail apps use postmark as the date, the recommended submit date is 7 calendar days before. Nov 2018 voting research current as of 9/30-10/1/2018.",
     "AL": {
         "stateFullName": "Alabama",
         "stepsAbsentee": [
