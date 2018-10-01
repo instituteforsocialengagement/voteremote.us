@@ -10,8 +10,8 @@ class IframeBody extends React.Component {
     
     url += form.firstName + '=' + this.props.state.firstName.replace(/ /g, '%20');
     url += '&' + form.lastName + '=' + this.props.state.lastName.replace(/ /g, '%20');
-    url += '&' + form.streetLine1 + '=' + this.props.state[loc + 'Address_streetLine1'].replace(/ /g, '%20').replace(/\//g, '').replace(/\#/g, '%23');
-    url += ' ' + this.props.state[loc + 'Address_streetLine2'].replace(/ /g, '%20').replace(/\//g, '').replace(/\#/g, '%23');
+    url += '&' + form.streetLine1 + '=' + this.props.state[loc + 'Address_streetLine1'].replace(/ /g, '%20').replace(/\//g, '').replace(/#/g, '%23');
+    url += ' ' + this.props.state[loc + 'Address_streetLine2'].replace(/ /g, '%20').replace(/\//g, '').replace(/#/g, '%23');
     url += '&' + form.city + '=' + this.props.state[loc + 'Address_city'].replace(/ /g, '%20');
     url += '&' + form.state + '=' + this.props.state[loc + 'Address_state'].replace(/ /g, '%20');
     url += '&' + form.zipCode + '=' + this.props.state[loc + 'Address_zipCode'].replace(/ /g, '%20');

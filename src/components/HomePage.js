@@ -28,7 +28,7 @@ class HomePage extends React.Component {
                     </Link>
                     <div className="teaser_circle" onClick={this.scrollToWhat}>
                         <svg xmlns="http://www.w3.org/2000/svg">
-                            <path fill="none" stroke-width="4" stroke-linecap="round" stroke="#FFF"
+                            <path fill="none" strokeWidth="4" strokeLinecap="round" stroke="#FFF"
                                 d="M30 25 L50 35 L70 25" />
                         </svg>
                     </div>
@@ -74,12 +74,12 @@ class HomePage extends React.Component {
                             <h3 className="vr_section_head vr_uppercase">Make Your Vote Count</h3>
                         <p>
                             Vote Remote's goal is to simplify the remote voting process so you can focus on the issues and candidates you believe in. When you sign up, we'll help you:
-                            <ul>
-                                <li>See where you vote will have the greatest impact</li>
-                                <li>Register to vote and request your ballot</li>
-                                <li>Meet other students working to make their voices heard</li>
-                            </ul>
                         </p>
+                        <ul>
+                            <li>See where you vote will have the greatest impact</li>
+                            <li>Register to vote and request your ballot</li>
+                            <li>Meet other students working to make their voices heard</li>
+                        </ul>
                         <Link className="started_box vr_red_background link_no_decoration" to="/get-started">
                             Get Started
                         </Link>

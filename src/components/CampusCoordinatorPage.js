@@ -28,7 +28,7 @@ class CampusCoordinatorPage extends React.Component {
                     </a>
                     <div className="teaser_circle" onClick={this.scrollToFirstSectionHeader}>
                         <svg xmlns="http://www.w3.org/2000/svg">
-                            <path fill="none" stroke-width="4" stroke-linecap="round" stroke="#FFF"
+                            <path fill="none" strokeWidth="4" strokeLinecap="round" stroke="#FFF"
                                 d="M30 25 L50 35 L70 25" />
                         </svg>
                     </div>

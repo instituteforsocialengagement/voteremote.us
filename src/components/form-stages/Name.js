@@ -16,14 +16,13 @@ const Name = (props) => (
         </div>
         <div>
         <hr />
-        <p>Hey! Our signup process will walk you through:
-            <ul>
-                <li>Where you can register to vote</li>
-                <li>How to register to vote (you’ll be offered a choice to skip this step if you’re already registered at your chosen address)</li>
-                <li>How to request your absentee ballot</li>
-                <li>The deadline for each step</li>
-            </ul>
-        </p>
+        <p>Hey! Our signup process will walk you through:</p>
+        <ul>
+            <li>Where you can register to vote</li>
+            <li>How to register to vote (you’ll be offered a choice to skip this step if you’re already registered at your chosen address)</li>
+            <li>How to request your absentee ballot</li>
+            <li>The deadline for each step</li>
+        </ul>
         <p>We estimate this should take 5-10 minutes.</p>
         <hr />
         </div>
