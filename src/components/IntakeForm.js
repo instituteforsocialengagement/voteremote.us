@@ -107,25 +107,25 @@ class IntakeForm extends React.Component {
         // If Address step, remove errors if an address type is marked as bypass
         if (currentStep === 'Address' && (this.state.bypassSchoolAddress || this.state.bypassHomeAddress)) {
             for (let key in stateUpdateValidation.errorMsgs) {
-                console.log(key);
+                // console.log(key);
                 if (key.includes("home") && this.state.bypassHomeAddress) {
-                    console.log("Inside home");
+                    // console.log("Inside home");
                     delete stateUpdateValidation.errorMsgs[key];
                 }
                 else if (key.includes("school") && this.state.bypassSchoolAddress) {
-                    console.log("Inside school");
+                    // console.log("Inside school");
                     delete stateUpdateValidation.errorMsgs[key];
                 }
             }
-            console.log(stateUpdateValidation);
+            // console.log(stateUpdateValidation);
         }
         // If errors, display them; else go to next step
         if (Object.keys(stateUpdateValidation.errorMsgs).length > 0) {
-            console.log("Setting state");
+            // console.log("Setting state");
             this.setState(stateUpdateValidation);
         }
         else {
-            console.log("Going to next step");
+            // console.log("Going to next step");
             this.setState({ errorMsgs: {} })
             // Let the state know that this step's been completed
             if (currentStep === 'Name') {
@@ -159,7 +159,7 @@ class IntakeForm extends React.Component {
                 default:
                     break;
             }
-            console.log(nextStep);
+            // console.log(nextStep);
             this.handleStepChange(nextStep);
         }
     }
@@ -172,11 +172,11 @@ class IntakeForm extends React.Component {
             const itemsRef = firebase.database().ref('items');
             const oldItem = this.state;
             itemsRef.push(oldItem).catch( (error) => console.log("Error writing to db."));
-            console.log("Saving data in firebase");
+            // console.log("Saving data in firebase");
         });
         // Go to next step
         let path = '';
-        console.log("Here is nextStep", nextStep);
+        // console.log("Here is nextStep", nextStep);
         switch (nextStep) {
             case 'Name':
                 path = `${this.props.match.path}/name`;
@@ -213,7 +213,7 @@ class IntakeForm extends React.Component {
             default:
                 break;
         }
-        console.log(path);
+        // console.log(path);
         this.props.history.push(path);
     }
 
