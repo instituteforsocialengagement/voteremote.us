@@ -1,10 +1,11 @@
 {
+    "_comment": "Suggested reg to vote and request ballot deadlines set at Oct 12, 2018, unless state reg deadline (several states) or request ballot deadline (RI) comes earlier. Oct 12 gives sufficient time for user to receive and return ballot. If a state reg deadline is before Oct 19 and the state's official site did not make clear whether by-mail apps use postmark as the date, the recommended submit date is 7 calendar days before. Nov 2018 voting research current as of 9/30-10/1/2018.",
     "AL": {
         "stateFullName": "Alabama",
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Alabama’s official registration deadline is October 22, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -23,7 +24,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 1, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -60,8 +61,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Alaska’s official registration deadline is October 6, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 6, 2018",
+                "stepDeadlineMouseoverText": "While Alaska’s official registration deadline is October 7 (postmark by), registering earlier will ensure that your ballot gets to you on time. October 7 is a Sunday, so submissions should be mailed by Saturday, October 6.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -79,7 +80,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 27, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -108,8 +109,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Arizona’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While Arizona’s official registration deadline is October 9 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -127,7 +128,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 26, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -156,8 +157,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Arkansas’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While Arkansas’s official registration deadline is October 9 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -169,7 +170,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -198,7 +199,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While California’s official registration deadline is October 22, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -217,7 +218,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "California does not have an official ballot request deadline, so requesting early will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -246,8 +247,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Colorado’s official deadline for by-mail registration is October 30, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While Colorado’s official deadline for by-mail registration is October 29, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -265,7 +266,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
                     {
@@ -294,7 +295,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Connecticut’s official registration deadline is October 30, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -313,7 +314,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Connecticut’s official absentee ballot request deadline is November 6, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -342,8 +343,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Washington, D.C.’s official registration deadline is October 16, 2018, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While Washington, D.C.’s official registration deadline is October 16, 2018 (receive by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -361,7 +362,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -396,8 +397,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Delaware’s official registration deadline is October 13, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While Delaware’s official registration deadline is October 13 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -415,7 +416,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -444,7 +445,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 9, 2018",
                 "stepDeadlineMouseoverText": "While Florida’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -463,7 +464,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -492,8 +493,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Georgia’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 1, 2018",
+                "stepDeadlineMouseoverText": "While Georgia’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -511,7 +512,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -540,7 +541,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 2, 2018",
                 "stepDeadlineMouseoverText": "While Hawaii’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -559,7 +560,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -588,8 +589,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Idaho’s official registration deadline is October 12, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While Idaho’s official registration deadline is October 12 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -607,7 +608,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 26, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -636,8 +637,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Illinois’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While Illinois’s official registration deadline is October 9 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -655,7 +656,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 1, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -684,8 +685,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Indiana’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While Indiana’s official registration deadline is October 9 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -703,7 +704,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 29, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -732,7 +733,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Iowa’s official registration deadline is October 27, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -751,7 +752,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 27, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -780,8 +781,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Kansas’ official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While Kansas’ official registration deadline is October 16 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -799,7 +800,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -832,8 +833,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Kentucky’s official registration deadline is October 8, 2018, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 2, 2018",
+                "stepDeadlineMouseoverText": "While Kentucky’s official registration deadline is October 9, 2018, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -851,7 +852,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -880,8 +881,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Louisiana's official registration deadline is October 7 (October 17 for online registration), registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 2, 2018",
+                "stepDeadlineMouseoverText": "While Louisiana's official registration deadline is October 9 (October 16 for online registration), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -899,7 +900,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -938,7 +939,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 9, 2018",
                 "stepDeadlineMouseoverText": "While Maine’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -951,7 +952,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 1, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -986,8 +987,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Maryland’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While Maryland’s official registration deadline is October 16 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1005,7 +1006,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1034,7 +1035,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Massachusetts’ official registration deadline is October 17, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -1053,7 +1054,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1082,8 +1083,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Michigan’s official registration deadline is October 5, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 2, 2018",
+                "stepDeadlineMouseoverText": "While Michigan’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1099,7 +1100,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 3, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1128,7 +1129,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 9, 2018",
                 "stepDeadlineMouseoverText": "While Minnesota’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -1147,7 +1148,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Minnesota doesn’t have an official deadline for requesting an absentee ballot, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1186,7 +1187,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 1, 2018",
                 "stepDeadlineMouseoverText": "While Mississippi’s official registration deadline is October 7, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -1199,7 +1200,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Mississippi doesn’t have an official deadline for requesting an absentee ballot, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1228,8 +1229,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Missouri’s official registration deadline is October 10, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 10, 2018",
+                "stepDeadlineMouseoverText": "While Missouri’s official registration deadline is October 10 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1241,7 +1242,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1270,8 +1271,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Montana’s official registration deadline is October 7, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 2, 2018",
+                "stepDeadlineMouseoverText": "While Montana’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1283,7 +1284,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1312,8 +1313,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Nebraska’s official registration deadline is October 20, 2018, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While Nebraska’s official registration deadline is October 19, 2018 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1331,7 +1332,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 27, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1360,8 +1361,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Nevada’s official registration deadline is October 8 (October 18 for online registration), registering early will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While Nevada’s official registration deadline is October 9 (postmark by) (October 18 for online registration), registering early will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1379,7 +1380,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1408,7 +1409,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 9, 2018",
                 "stepDeadlineMouseoverText": "While New Jersey’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -1421,7 +1422,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1450,8 +1451,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While New Mexico’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While New Mexico’s official registration deadline is October 9 (if postmarked by then, must receive by October 12), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1463,7 +1464,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1492,8 +1493,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While New York’s official registration deadline is October 12, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While New York’s official registration deadline is October 12 (if postmarked by then, must receive by October 17), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1511,7 +1512,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be postmarked by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1540,7 +1541,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 5, 2018",
                 "stepDeadlineMouseoverText": "While North Carolina’s official registration deadline is October 12, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -1553,7 +1554,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1593,7 +1594,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While North Dakota doesn’t have an official absentee ballot request deadline, requesting early will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1626,8 +1627,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Ohio’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While Ohio’s official registration deadline is October 9 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1645,7 +1646,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 3, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1674,8 +1675,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Oklahoma’s official registration deadline is October 13, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 5, 2018",
+                "stepDeadlineMouseoverText": "While Oklahoma’s official registration deadline is October 12, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1687,7 +1688,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1722,8 +1723,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Oregon’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While Oregon’s official registration deadline is October 16 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1741,7 +1742,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "All Oregon elections are held by mail-in ballot. If you haven’t received your absentee ballot three weeks out from the election, contact your local election official.",
                 "stepInstructions": [
                     {
@@ -1770,8 +1771,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Pennsylvania’s official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While Pennsylvania’s official registration deadline is October 9 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1789,7 +1790,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1818,8 +1819,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Rhode Island’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 1, 2018",
+                "stepDeadlineMouseoverText": "While Rhode Island’s official registration deadline is October 7, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1837,7 +1838,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 9, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 16, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1866,8 +1867,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While South Carolina’s official registration deadline is October 7, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 7, 2018",
+                "stepDeadlineMouseoverText": "While South Carolina’s official registration deadline is October 9 (postmark by then) (October 7 for online registration), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1885,7 +1886,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 2, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1920,7 +1921,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While registration applications must be received by October 22, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -1933,7 +1934,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -1962,8 +1963,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Tennessee's official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 2, 2018",
+                "stepDeadlineMouseoverText": "While Tennessee's official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -1985,7 +1986,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -2014,7 +2015,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 2, 2018",
                 "stepDeadlineMouseoverText": "While Texas’ official registration deadline is October 9, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -2027,7 +2028,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 26, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -2056,8 +2057,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Utah’s official mail registration deadline is October 9 (October 22 for online registration), registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 2, 2018",
+                "stepDeadlineMouseoverText": "While Utah’s official mail registration deadline is October 9 (October 30 for online registration), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -2075,7 +2076,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -2104,7 +2105,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Vermont residents can register to vote even on Election Day, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -2123,7 +2124,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -2152,7 +2153,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 1, 2018",
                 "stepDeadlineMouseoverText": "While Washington’s official registration deadline is October 8, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -2171,7 +2172,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "All Washington elections are held by mail-in ballot.",
                 "stepInstructions": [
                     {
@@ -2200,8 +2201,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While West Virginia’s official registration deadline is October 16, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 9, 2018",
+                "stepDeadlineMouseoverText": "While West Virginia’s official registration deadline is October 16 (postmark by), registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -2219,7 +2220,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 31, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -2248,7 +2249,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 10, 2018",
                 "stepDeadlineMouseoverText": "While Wisconsin’s official registration deadline is October 17, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -2267,7 +2268,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Wisconsin’s official absentee ballot request deadline is November 1, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -2300,8 +2301,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While Wyoming’s official registration deadline is October 23, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While Wyoming’s official registration deadline is October 22, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -2313,7 +2314,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by November 5, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -2342,8 +2343,8 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
-                "stepDeadlineMouseoverText": "While New Hampshire’s official registration deadline is October 27, registering earlier will ensure that your ballot gets to you on time.",
+                "stepDeadline": "By October 12, 2018",
+                "stepDeadlineMouseoverText": "While New Hampshire’s official registration deadline is 6-13 days prior to the election depending on the locality, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
                         "instructionType": "link",
@@ -2355,7 +2356,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While New Hampshire doesn’t have an official absentee ballot request deadline, requesting early will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
@@ -2384,7 +2385,7 @@
         "stepsAbsentee": [
             {
                 "stepName": "Register to Vote",
-                "stepDeadline": "By September 28, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While Virginia’s official registration deadline is October 15, registering earlier will ensure that your ballot gets to you on time.",
                 "stepInstructions": [
                     {
@@ -2403,7 +2404,7 @@
             },
             {
                 "stepName": "Request Your Ballot",
-                "stepDeadline": "By October 5, 2018",
+                "stepDeadline": "By October 12, 2018",
                 "stepDeadlineMouseoverText": "While absentee ballot requests must be received by October 30, requesting earlier will ensure that you can receive and mail your ballot before the voting deadline.",
                 "stepInstructions": [
                     {
