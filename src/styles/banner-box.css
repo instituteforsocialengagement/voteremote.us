@@ -48,7 +48,7 @@
 }
 
 /* Breakpoint for medium-size desktop/laptop screens */
-@media only screen and (max-width: 1400px) {
+@media only screen and (max-width: 1500px) {
     .banner_box {
         min-height: 500px;
         display: flex;
