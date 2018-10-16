@@ -41,6 +41,9 @@ li {
   color: inherit;
   text-decoration: inherit;
 }
+.bold {
+  font-weight: bold;
+}
 .transparent {
   opacity: 0;
 }
