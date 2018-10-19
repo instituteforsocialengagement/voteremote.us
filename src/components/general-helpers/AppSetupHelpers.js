@@ -1,6 +1,7 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom';
 import ReactGA from 'react-ga';
+import ReactPixel from 'react-facebook-pixel';
 
 
 class AppSetupHelpers extends React.Component {
@@ -21,6 +22,14 @@ class AppSetupHelpers extends React.Component {
         ReactGA.set({ page: location.pathname });
         ReactGA.pageview(location.pathname);
       });
+
+      // Fb Pixel setup
+      const fbPixelOptions = {
+        autoConfig: true,
+        debug: false
+      }
+      ReactPixel.init('317821249004038', fbPixelOptions);
+      ReactPixel.pageView();
     }
   
     render() {
