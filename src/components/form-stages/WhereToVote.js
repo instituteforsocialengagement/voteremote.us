@@ -151,6 +151,10 @@ class WhereToVote extends React.Component {
                 { this.props.state.homeAddress_zipCode }</p>
               </div>
               <div className="form_description_box">
+                <a href={`https://ballotpedia.org/Sample_Ballot_Lookup#address=${this.props.state.homeAddress_streetLine1}%20${this.props.state.homeAddress_city}%20${this.props.state.homeAddress_state}%20${this.props.state.homeAddress_zipCode}`}>Click here to see this address's sample ballot at Ballotpedia</a>
+                <p className="small_text">(Ballotpedia is an external site not affiliated with Vote Remote)</p>
+              </div>
+              <div className="form_description_box">
                 <p>2016 presidential election results for {this.props.state.homeAddress_state}:</p>
                 <table className="table_presidential_results">
                   <tbody>
@@ -180,6 +184,10 @@ class WhereToVote extends React.Component {
                 { this.props.state.schoolAddress_city },{' '}
                 { this.props.state.schoolAddress_state }{' '}
                 { this.props.state.schoolAddress_zipCode }</p>
+              </div>
+              <div className="form_description_box">
+                <a href={`https://ballotpedia.org/Sample_Ballot_Lookup#address=${this.props.state.schoolAddress_streetLine1}%20${this.props.state.schoolAddress_city}%20${this.props.state.schoolAddress_state}%20${this.props.state.schoolAddress_zipCode}`}>Click here to see this address's sample ballot at Ballotpedia</a>
+                <p className="small_text">(Ballotpedia is an external site not affiliated with Vote Remote)</p>
               </div>
               <div className="form_description_box">
                 <p>2016 presidential election results for {this.props.state.schoolAddress_state}:</p>
