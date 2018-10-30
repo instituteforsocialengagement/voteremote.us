@@ -4,6 +4,7 @@ import SocialMediaLinks from './SocialMediaLinks';
 import ReactGA from 'react-ga';
 
 import '../styles/Footer.css';
+import '../styles/votelol.css';
 
 const Footer = () => (
     <div className="footer">
@@ -19,7 +20,11 @@ const Footer = () => (
             to="http://www.thinkinformed.org"
             target="_blank">
             Institute for Social Engagement
-            </ReactGA.OutboundLink>, a 501(c)(3) organization.</p>
+            </ReactGA.OutboundLink>, a 501(c)(3) organization.
+        </p>
+        <div className="glitch-background">
+            <span className="glitch" data-text="V̷҉OŢ̷̢E.̴̀͘L̡҉OL"><Link className="link_no_decoration" to="/and-now-for-something-completely-different">VoteLOL</Link></span>
+        </div>
     </div>
 );
 
