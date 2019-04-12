@@ -104,6 +104,10 @@
     padding: 10px;
 }
 
+.step_header_full {
+    text-align: left;
+    width: 100%;
+}
 .step_header_left, .step_body_part_left {
     text-align: left;
     width: 70%;

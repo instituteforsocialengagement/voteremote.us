@@ -9,7 +9,6 @@ import HomePage from './components/HomePage';
 import AboutPage from './components/AboutPage';
 import StateRequirementsPage from './components/StateRequirementsPage';
 import TermsAndPrivacyPage from './components/TermsAndPrivacyPage';
-import VoteLolLinkPage from './components/VoteLolLinkPage';
 
 import './App.css';
 
@@ -23,7 +22,6 @@ const App = () => (
         <Route exact path={'/state-requirements'} component={StateRequirementsPage} />
         <Route path={'/about'} component={AboutPage} />
         <Route path={'/terms-and-privacy'} component={TermsAndPrivacyPage} />
-        <Route path={'/and-now-for-something-completely-different'} component={VoteLolLinkPage} />
         <Route exact path={'/'} component={HomePage} />
       </Switch>
     <Footer />
