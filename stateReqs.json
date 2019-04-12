@@ -46,10 +46,6 @@
                 "stepInstructions": [
                     {
                         "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by noon on Tuesday, November 6."
-                    },
-                    {
-                        "instructionType": "reminder",
                         "instructionText": "Alabama requires that when you return your absentee ballot, you include a photocopy of an approved photo ID."
                     }
                 ]
@@ -96,10 +92,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. AKST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -144,10 +137,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7 p.m. MST Tuesday, November 6. "
-                    }
+
                 ]
             }
         ]
@@ -186,10 +176,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7:30 p.m. MST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -234,10 +221,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -282,10 +266,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7 p.m. MST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -330,10 +311,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. EST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -384,10 +362,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by November 6, 2018."
-                    }
+
                 ]
             }
         ]
@@ -432,10 +407,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. EST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -480,10 +452,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by noon on Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -528,10 +497,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -576,10 +542,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -624,10 +587,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 5 p.m. Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -672,10 +632,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -720,10 +677,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by noon on Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -768,10 +722,7 @@
                 "stepDeadline": "By November 5, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be postmarked by Monday, November 5 and received by noon on Monday, November 12."
-                    }
+
                 ]
             }
         ]
@@ -820,10 +771,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be postmarked by November 6 and received by November 9."
-                    }
+
                 ]
             }
         ]
@@ -868,10 +816,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by November 6. "
-                    }
+
                 ]
             }
         ]
@@ -926,10 +871,7 @@
                 "stepDeadline": "By November 5, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 4:30 p.m. Monday, November 5th."
-                    }
+
                 ]
             }
         ]
@@ -974,10 +916,7 @@
                 "stepDeadline": "By November 6, 2018 ",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1022,10 +961,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. EST Tuesday, November 6, 2018."
-                    }
+
                 ]
             }
         ]
@@ -1070,10 +1006,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by the close of polls on Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1116,10 +1049,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1172,10 +1102,6 @@
                 "stepInstructions": [
                     {
                         "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
-                    },
-                    {
-                        "instructionType": "reminder",
                         "instructionText": "To complete their ballot, residents must have the signature of a notary or witness who is registered to vote in Minnesota."
                     }
                 ]
@@ -1216,10 +1142,7 @@
                 "stepDeadline": "By November 5, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 5 p.m. Monday, November 5."
-                    }
+
                 ]
             }
         ]
@@ -1258,10 +1181,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by the close of polls on Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1300,10 +1220,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1348,10 +1265,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by the close of polls on Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1396,10 +1310,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7 p.m. Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1438,10 +1349,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by the close of polls on Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1480,10 +1388,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7 p.m. Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1528,10 +1433,7 @@
                 "stepDeadline": "By November 5, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be postmarked by November 5 and received by November 12."
-                    }
+
                 ]
             }
         ]
@@ -1570,10 +1472,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be postmarked by November 6 and received by November 9."
-                    }
+
                 ]
             }
         ]
@@ -1614,10 +1513,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1662,10 +1558,7 @@
                 "stepDeadline": "By November 3, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by noon on Saturday, November 3."
-                    }
+
                 ]
             }
         ]
@@ -1710,10 +1603,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7 p.m. CST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1758,10 +1648,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. PST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1806,10 +1693,7 @@
                 "stepDeadline": "By November 2, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 5 p.m. Friday, November 2."
-                    }
+
                 ]
             }
         ]
@@ -1854,10 +1738,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. EST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1908,10 +1789,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7 p.m. EST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -1950,10 +1828,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by November 6."
-                    }
+
                 ]
             }
         ]
@@ -2002,10 +1877,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by November 6."
-                    }
+
                 ]
             }
         ]
@@ -2044,10 +1916,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be postmarked by Tuesday, November 6 and received by 5 p.m. Wednesday, November 7."
-                    }
+
                 ]
             }
         ]
@@ -2092,10 +1961,7 @@
                 "stepDeadline": "By November 5, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 11:59 p.m. on Monday, November 5."
-                    }
+
                 ]
             }
         ]
@@ -2140,10 +2006,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -2188,10 +2051,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 8 p.m. Tuesday, November 6. "
-                    }
+
                 ]
             }
         ]
@@ -2236,10 +2096,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be postmarked by Tuesday, November 6 and received by Monday, November 12."
-                    }
+
                 ]
             }
         ]
@@ -2288,10 +2145,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by November 6."
-                    }
+
                 ]
             }
         ]
@@ -2330,10 +2184,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7 p.m. Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -2372,10 +2223,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 5 p.m. EST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
@@ -2420,10 +2268,7 @@
                 "stepDeadline": "By November 6, 2018",
                 "stepDeadlineMouseoverText": "",
                 "stepInstructions": [
-                    {
-                        "instructionType": "reminder",
-                        "instructionText": "Completed absentee ballots must be received by 7 p.m. EST Tuesday, November 6."
-                    }
+
                 ]
             }
         ]
