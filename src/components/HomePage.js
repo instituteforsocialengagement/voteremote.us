@@ -73,7 +73,7 @@ class HomePage extends React.Component {
                     <div className="count_box_text">
                             <h3 className="vr_section_head vr_uppercase">Make Your Vote Count</h3>
                         <p>
-                            Vote Remote's goal is to simplify the remote voting process so you can focus on the issues and candidates you believe in. When you sign up, we'll help you:
+                            Vote Remote's goal is to simplify the remote voting process so that you can focus on the issues and candidates you believe in. When you sign up, we'll help you:
                         </p>
                         <ul>
                             <li>See where you vote will have the greatest impact</li>
