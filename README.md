@@ -1,16 +1,16 @@
 # Readme notes specific to voteremote.us:
 
-To run locally:
-npm install
+To run locally:  
+npm install  
 npm start
 
-To deploy to Github Pages:
-npm run deploy
+To deploy to Github Pages:  
+npm run deploy  
 Creates an optimized production build, and then uploads the production build to the gh-pages branch of the Github repo.
 
 Do not manually push files to the gh-pages branch of the Github repo! (Or if you do, make sure you're pushing a production build only. But the React gh-pages module means you don't have to manually push files.)
 
-To commit source code to Github:
+To commit source code to Github:  
 Push the changes to the master branch, or push the changes to a separate branch and do a pull request against instituteforsocialengagement/voteremote.us master branch.
 
 This site is hosted on Github Pages on the gh-pages branch. The domain is set up with A records and CNAME records (on "www") to send traffic to the Github Pages server, and the "CNAME" file inside the gh-pages branch of the voteremote.us repo tells Github Pages that traffic from voteremote.us or www.voteremote.us should be provided with the index.html file inside the gh-pages branch.
