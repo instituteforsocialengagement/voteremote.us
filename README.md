@@ -1,5 +1,7 @@
 # Readme notes specific to voteremote.us:
 
+You'll need Node.js and npm installed on your machine. Node.js: https://nodejs.org/en/download/
+
 To run locally:  
 npm install  
 npm start
